@@ -1,900 +1,920 @@
-name,category,value,duped_value,rarity,demand,last_updated
-HyperShift,HyperChrome,"355,000,000","312,000,000",,Decent,
-HyperShift Level 4,HyperChrome,"254,000,000",N/A,,Very Low,
-HyperDiamond Level 5,HyperChrome,"70,000,000","60,000,000",,Decent,
-HyperBlue Level 5,HyperChrome,"61,000,000","50,000,000",,Decent,
-HyperPink Level 5,HyperChrome,"58,000,000","51,000,000",,Decent,
-HyperBlue Level 4,HyperChrome,"54,000,000",N/A,,Very Low,
-Javelin,Vehicle,"49,500,000",N/A,,Decent,
-Torpedo,Vehicle,"49,000,000","41,500,000",,Medium,2026-02-05
-HyperDiamond Level 4,HyperChrome,"47,000,000",N/A,,Low,
-Void,Rim,"46,000,000","41,000,000",,High,
-HyperRed Level 5,HyperChrome,"45,000,000","39,000,000",,Decent,
-HyperPurple Level 5,HyperChrome,"43,000,000","40,000,000",,Decent,
-HyperPink Level 4,HyperChrome,"42,000,000",N/A,,Decent,
-Checker,Texture,"41,000,000","38,000,000",,Decent,
-Beignet,Vehicle,"40,000,000","37,000,000",,High,
-Thrusters,Spoiler,"40,000,000","37,000,000",,Decent,
-HyperOrange Level 5,HyperChrome,"34,000,000","31,500,000",,Decent,
-Celsior,Vehicle,"33,000,000","31,000,000",,High,
-HyperPurple Level 4,HyperChrome,"32,000,000",N/A,,Decent,
-Proto-8,Vehicle,"30,000,000",N/A,,High,
-Vantablack,Body Color,"29,000,000",N/A,,Low,
-Laser Cannon,Rim,"28,000,000",N/A,,Decent,
-HyperRed Level 4,HyperChrome,"26,000,000",N/A,,Very Low,
-HyperGreen Level 5,HyperChrome,"25,000,000","23,000,000",,Decent,
-Power 1,Vehicle,"23,000,000",N/A,,High,
-Arachnid,Vehicle,"21,000,000","18,000,000",,Decent,
-HyperBlue Level 3,HyperChrome,"21,000,000",N/A,,Very Low,
-Blue Fire,Drift,"20,000,000",N/A,,Very Low,
-Icebreaker,Vehicle,"20,000,000","17,000,000",,Decent,
-Drip,Texture,"20,000,000",N/A,,Decent,
-HyperOrange Level 4,HyperChrome,"20,000,000",N/A,,Low,
-HyperYellow Level 5,HyperChrome,"20,000,000","18,000,000",,Decent,
-Beam Hybrid,Vehicle,"19,000,000","16,000,000",,Decent,
-HyperGreen Level 4,HyperChrome,"19,000,000",N/A,,Low,
-RTX,Rim,"17,500,000",N/A,,Very Low,
-HyperDiamond Level 3,HyperChrome,"17,500,000",N/A,,Low,
-Banana Car,Vehicle,"17,000,000",N/A,,Decent,
-Spinner,Rim,"16,500,000","15,000,000",,Very Low,
-Molten M12,Vehicle,"15,000,000",N/A,,Decent,
-Drip,Weapon Skin,"15,000,000",N/A,,Very Low,
-HyperYellow Level 4,HyperChrome,"14,000,000",N/A,,Low,
-Noob Scream,Furniture,"14,000,000",N/A,,Very Low,
-Crew Capsule,Vehicle,"12,000,000",N/A,,Very Low,
-HyperPink Level 3,HyperChrome,"12,000,000",N/A,,Low,
-Raptor,Vehicle,"11,000,000",N/A,,Low,
-Snow Shovel,Spoiler,"11,000,000",N/A,,Very Low,
-Volt 4x4,Vehicle,"10,000,000",N/A,,Decent,
-HyperPurple Level 3,HyperChrome,"10,000,000",N/A,,Low,
-Snow Face,Rim,"9,000,000",N/A,,Very Low,
-Blue 50,Tire Sticker,"9,000,000",N/A,,Very Low,
-Parisian,Vehicle,"8,500,000",N/A,,Decent,
-Gradient Pixel,Drift,"8,000,000",N/A,,Low,
-Snowstorm,Texture,"8,000,000",N/A,,Low,
-2 Billion,Spoiler,"8,000,000",N/A,,Very Low,
-Spiked,Tire Style,"8,000,000",N/A,,Low,
-Aperture,Vehicle,"7,500,000",N/A,,Decent,
-Shogun,Vehicle,"6,500,000",N/A,,Decent,
-Scorpion,Vehicle,"6,000,000",N/A,,Decent,
-HyperRed Level 3,HyperChrome,"6,000,000",N/A,,Very Low,
-Carbonara,Vehicle,"5,500,000",N/A,,Decent,
-Macaron,Vehicle,"5,500,000",N/A,,Decent,
-Bicycle Rack,Spoiler,"5,500,000",N/A,,Very Low,
-Snowflake,Rim,"5,000,000",N/A,,Very Low,
-Bandit,Vehicle,"5,000,000",N/A,,Decent,
-Goliath,Vehicle,"5,000,000",N/A,,Decent,
-Sci-Fi Kitchen,Furniture,"5,000,000",N/A,,Very Low,
-Icicle,Rim,"4,500,000",N/A,,Very Low,
-Ionize,Rim,"4,500,000",N/A,,Very Low,
-Planetary,Rim,"4,500,000",N/A,,Decent,
-Rattler,Vehicle,"4,000,000",N/A,,Low,
-Torero,Vehicle,"4,000,000",N/A,,Decent,
-Galactic Carbon,Texture,"4,000,000",N/A,,Low,
-Clickbait,Spoiler,"4,000,000",N/A,,Very Low,
-Volt Wing,Spoiler,"4,000,000",N/A,,Very Low,
-HyperBlue Level 2,HyperChrome,"4,000,000",N/A,,Very Low,
-HyperOrange Level 3,HyperChrome,"4,000,000",N/A,,Very Low,
-Trapped Bookshelf,Furniture,"4,000,000",N/A,,Very Low,
-Snowstorm,Weapon Skin,"4,000,000",N/A,,Close to none,
-JB8,Vehicle,"3,500,000",N/A,,Decent,
-Snake,Vehicle,"3,500,000",N/A,,Decent,
-Earthquake,Texture,"3,500,000",N/A,,Medium,
-5 Star,Spoiler,"3,500,000",N/A,,Very Low,
-Blue Chute,Spoiler,"3,500,000",N/A,,Low,
-Cash Spitter,Spoiler,"3,500,000",N/A,,Decent,
-Eight Leg,Spoiler,"3,500,000",N/A,,Very Low,
-Brickset,Tire Style,"3,500,000",N/A,,Low,
-HyperDiamond Level 2,HyperChrome,"3,500,000",N/A,,Very Low,
-HyperGreen Level 3,HyperChrome,"3,500,000",N/A,,Very Low,
-Hot Chocolate Tub,Furniture,"3,500,000",N/A,,Very Low,
-Race Simulator,Furniture,"3,500,000",N/A,,Very Low,
-Orion M42,Vehicle,"3,500,000",N/A,,Decent,
-Brickset,Rim,"3,000,000",N/A,,Very Low,
-Spark,Drift,"3,000,000",N/A,,Very Low,
-Airtail,Vehicle,"3,000,000",N/A,,Decent,
-Brulee,Vehicle,"3,000,000",N/A,,Decent,
-Tiny Toy,Vehicle,"3,000,000",N/A,,Decent,
-Red 50,Tire Sticker,"3,000,000",N/A,,Very Low,
-Fire,Texture,"3,000,000",N/A,,Low,
-Glider,Spoiler,"3,000,000",N/A,,Very Low,
-Tiki Torch,Spoiler,"3,000,000",N/A,,Very Low,
-Velocity,Spoiler,"3,000,000",N/A,,Very Low,
-Iceborn,Vehicle,"3,000,000",N/A,,Decent,
-Snow Chain,Tire Style,"3,000,000",N/A,,Very Low,
-HyperYellow Level 3,HyperChrome,"3,000,000",N/A,,Very Low,
-Katana,Vehicle,"3,000,000",N/A,,Decent,
-Blue Eyes,Rim,"2,500,000",N/A,,Very Low,
-Center Lock,Rim,"2,500,000",N/A,,Very Low,
-Hypno,Rim,"2,500,000",N/A,,Very Low,
-Iron Rock,Rim,"2,500,000",N/A,,Very Low,
-Bloxy,Vehicle,"2,500,000",N/A,,Decent,
-Concept,Vehicle,"2,500,000",N/A,,Very Low,
-Poseidon,Vehicle,"2,500,000",N/A,,Medium,
-Shell Classic,Vehicle,"2,500,000",N/A,,Medium,
-Wedge,Vehicle,"2,500,000",N/A,,Decent,
-Jailbreak Army,Tire Sticker,"2,500,000",N/A,,Very Low,
-Japanese,Tire Sticker,"2,500,000",N/A,,Very Low,
-Black Ice,Texture,"2,500,000",N/A,,Low,
-Blue Pixel,Texture,"2,500,000",N/A,,Low,
-Winter Camo,Texture,"2,500,000",N/A,,Medium,
-Brickset,Spoiler,"2,500,000",N/A,,Very Low,
-Snow Trail,Tire Style,"2,500,000",N/A,,Very Low,
-Race Car Bed,Furniture,"2,500,000",N/A,,Very Low,
-Sarcophagus Bed,Furniture,"2,500,000",N/A,,Very Low,
-Cobra,Vehicle,"2,500,000",N/A,,Medium,
-Brick Kar-1,Vehicle,"2,500,000",N/A,,Low,
-Polaire,Vehicle,"2,500,000",N/A,,Decent,
-Diamond Engrave,Rim,"2,000,000",N/A,,Very Low,
-Radar,Rim,"2,000,000",N/A,,Very Low,
-Sakura,Rim,"2,000,000",N/A,,Very Low,
-Stance,Rim,"2,000,000",N/A,,Very Low,
-Track Toy,Rim,"2,000,000",N/A,,Very Low,
-Wagon Wheel,Rim,"2,000,000",N/A,,Very Low,
-Aurora,Drift,"2,000,000",N/A,,Low,
-Brickset,Drift,"2,000,000",N/A,,Very Low,
-Agent,Vehicle,"2,000,000",N/A,,Low,
-Jackrabbit,Vehicle,"2,000,000",N/A,,Very Low,
-Old Town Road,Texture,"2,000,000",N/A,,Very Low,
-Dual Rockets,Spoiler,"2,000,000",N/A,,Very Low,
-Endurance Wing,Spoiler,"2,000,000",N/A,,Very Low,
-Stormrider,Vehicle,"2,000,000",N/A,,Decent,
-Donut,Tire Style,"2,000,000",N/A,,Very Low,
-Inf1n1ty,Rim,"2,000,000",N/A,,Low,
-Flaming,Weapon Skin,"1,750,000",N/A,,Close to none,
-Daytona,Rim,"1,500,000",N/A,,Very Low,
-Doubloon,Rim,"1,500,000",N/A,,Close to none,
-Fore,Rim,"1,500,000",N/A,,Very Low,
-Frostburn,Rim,"1,500,000",N/A,,Very Low,
-Red Eyes,Rim,"1,500,000",N/A,,Very Low,
-Rubber Ducky,Rim,"1,500,000",N/A,,Very Low,
-Sparkler,Rim,"1,500,000",N/A,,Very Low,
-Spider Leg,Rim,"1,500,000",N/A,,Very Low,
-LongHorn,Vehicle,"1,500,000",N/A,,Low,
-Manta,Vehicle,"1,500,000",N/A,,Very Low,
-Armor,Texture,"1,500,000",N/A,,Very Low,
-Manga,Texture,"1,500,000",N/A,,Medium,
-Orange Pixel,Texture,"1,500,000",N/A,,Very Low,
-Tiger,Texture,"1,500,000",N/A,,Medium,
-After Burner,Spoiler,"1,500,000",N/A,,Very Low,
-Colors Of Italy,Spoiler,"1,500,000",N/A,,Very Low,
-Death Ray,Spoiler,"1,500,000",N/A,,Very Low,
-Flamethrower,Spoiler,"1,500,000",N/A,,Very Low,
-Jetpack,Spoiler,"1,500,000",N/A,,Very Low,
-Mecha Arm,Spoiler,"1,500,000",N/A,,Close to none,
-Water Gun,Spoiler,"1,500,000",N/A,,Very Low,
-Cryo Chamber,Furniture,"1,500,000",N/A,,Very low,
-Missile Bed,Furniture,"1,500,000",N/A,,Very low,
-Picnic Table,Furniture,"1,500,000",N/A,,Very Low,
-Cucaracha,Horn,"1,500,000",N/A,,Close to none,
-Revox,Vehicle,"1,500,000",N/A,,Medium,
-Circuit Board,Weapon Skin,"1,500,000",N/A,,Close to none,
-Digital Confetti,Weapon Skin,"1,500,000",N/A,,Close to none,
-Blue Portal,Rim,"1,500,000",N/A,,Very Low,
-Blackbeard,Vehicle,"1,500,000",N/A,,Close to none,
-Ocean Water,Drift,"1,500,000",N/A,,Very Low,
-Black Widow,Vehicle,"1,500,000",N/A,,Low,
-Bull,Rim,"1,250,000",N/A,,Very Low,
-Soccer,Rim,"1,250,000",N/A,,Close to none,
-Star Badge,Rim,"1,250,000",N/A,,Very Low,
-Frost Crawler,Vehicle,"1,250,000",N/A,,Close to none,
-Megalodon,Vehicle,"1,250,000",N/A,,Close to none,
-OG Monster,Vehicle,"1,250,000",N/A,,Close to none,
-Striker,Vehicle,"1,250,000",N/A,,Close to none,
-Pixel,Texture,"1,250,000",N/A,,Very Low,
-Dual Flags,Spoiler,"1,250,000",N/A,,Close to none,
-Shell Speaker,Spoiler,"1,250,000",N/A,,Close to none,
-Drone,Vehicle,"1,250,000",N/A,,Close to none,
-Gold,Body Color,"1,250,000",N/A,,Very Low,
-HyperPink Level 2,HyperChrome,"1,250,000",N/A,,Close to none,
-Foosball Table,Furniture,"1,250,000",N/A,,Close to none,
-RGB Wall,Furniture,"1,250,000",N/A,,Close to none,
-Teleporters,Furniture,"1,250,000",N/A,,Close to none,
-White Marble,Weapon Skin,"1,250,000",N/A,,Close to none,
-Cannonfire,Spoiler,"1,250,000",N/A,,Close to none,
-Baller,Rim,"1,000,000",N/A,,Close to none,
-Biohazard,Rim,"1,000,000",N/A,,Close to none,
-Distorted,Rim,"1,000,000",N/A,,Close to none,
-Energized,Rim,"1,000,000",N/A,,Close to none,
-Euro Clover Leaf,Rim,"1,000,000",N/A,,Close to none,
-Marshmallow,Rim,"1,000,000",N/A,,Close to none,
-Nemesis,Rim,"1,000,000",N/A,,Close to none,
-Retrowave,Rim,"1,000,000",N/A,,Close to none,
-Tumble Weed,Rim,"1,000,000",N/A,,Close to none,
-Maverick,Vehicle,"1,000,000",N/A,,Close to none,
-Monster,Vehicle,"1,000,000",N/A,,Close to none,
-Sloop,Vehicle,"1,000,000",N/A,,Close to none,
-Tank,Vehicle,"1,000,000",N/A,,Close to none,
-Trailblazer,Vehicle,"1,000,000",N/A,,Close to none,
-Volt,Vehicle,"1,000,000",N/A,,Close to none,
-Blue S3,Tire Sticker,"1,000,000",N/A,,Close to none,
-Nascar 75th,Tire Sticker,"1,000,000",N/A,,Close to none,
-Berlin Graffiti,Texture,"1,000,000",N/A,,Very Low,
-Circuits,Texture,"1,000,000",N/A,,Close to none,
-Crimson Racer,Texture,"1,000,000",N/A,,Close to none,
-Earth,Texture,"1,000,000",N/A,,Close to none,
-Lightning,Texture,"1,000,000",N/A,,Close to none,
-White Marble,Texture,"1,000,000",N/A,,Close to none,
-Bull,Spoiler,"1,000,000",N/A,,Close to none,
-Guitar Riff,Spoiler,"1,000,000",N/A,,Close to none,
-JDM,Spoiler,"1,000,000",N/A,,Close to none,
-Japanese Lantern,Spoiler,"1,000,000",N/A,,Close to none,
-Orange Chute,Spoiler,"1,000,000",N/A,,Close to none,
-Snow Cannon,Spoiler,"1,000,000",N/A,,Close to none,
-Spare,Spoiler,"1,000,000",N/A,,Close to none,
-Surfboard Rack,Spoiler,"1,000,000",N/A,,Close to none,
-UFO,Spoiler,"1,000,000",N/A,,Close to none,
-Windmill,Spoiler,"1,000,000",N/A,,Close to none,
-Black Hawk,Vehicle,"1,000,000",N/A,,Close to none,
-Jet,Vehicle,"1,000,000",N/A,,Close to none,
-Ice Spike,Drift,"1,000,000",N/A,,Very Low,
-Radiant Ice,Body Color,"1,000,000",N/A,,Very Low,
-America,Tire Style,"1,000,000",N/A,,Close to none,
-HyperGreen Level 2,HyperChrome,"1,000,000",N/A,,Close to none,
-HyperOrange Level 2,HyperChrome,"1,000,000",N/A,,Close to none,
-HyperPurple Level 2,HyperChrome,"1,000,000",N/A,,Close to none,
-HyperRed Level 2,HyperChrome,"1,000,000",N/A,,Close to none,
-Air Hockey Table,Furniture,"1,000,000",N/A,,Close to none,
-Bloxy Lisa,Furniture,"1,000,000",N/A,,Close to none,
-Sakura Tree,Furniture,"1,000,000",N/A,,Close to none,
-Walk Of Fame,Furniture,"1,000,000",N/A,,Close to none,
-Arcade Portal,Furniture,"1,000,000",N/A,,Close to none,
-Pixeltary,Rim,"1,000,000",N/A,,Close to none,
-Arcade Racer,Spoiler,"1,000,000",N/A,,Close to none,
-Fire,Weapon Skin,"1,000,000",N/A,,Close to none,
-Galactic Carbon,Weapon Skin,"1,000,000",N/A,,Close to none,
-Bamboo Shooters,Spoiler,"1,000,000",N/A,,Close to none,
-Neo-Static,Drift,"1,000,000",N/A,,Very Low,
-Bloxxer Launcher,Spoiler,"1,000,000",N/A,,Close to none,
-Bloxxer,Drift,"1,000,000",N/A,,Close to none,
-Bionic,Vehicle,"1,000,000",N/A,,Close to none,
-Nemesis,Drift,"1,000,000",N/A,,Unknown,
-Beadlock,Rim,"750,000",N/A,,Close to none,
-Compass,Rim,"750,000",N/A,,Close to none,
-Dino,Rim,"750,000",N/A,,Close to none,
-Handcuff,Rim,"750,000",N/A,,Close to none,
-Ship Wheel,Rim,"750,000",N/A,,Close to none,
-Shutter Shade,Rim,"750,000",N/A,,Close to none,
-UK Heritage,Rim,"750,000",N/A,,Close to none,
-OG Fuel,Drift,"750,000",N/A,,Close to none,
-3 Billion,Tire Sticker,"750,000",N/A,,Close to none,
-80s Style,Tire Sticker,"750,000",N/A,,Close to none,
-Kanagawa,Tire Sticker,"750,000",N/A,,Close to none,
-Red S3,Tire Sticker,"750,000",N/A,,Close to none,
-Aquatic,Texture,"750,000",N/A,,Close to none,
-Bacon,Texture,"750,000",N/A,,Close to none,
-Camo Radar,Texture,"750,000",N/A,,Close to none,
-Digital Confetti,Texture,"750,000",N/A,,Close to none,
-Field,Texture,"750,000",N/A,,Close to none,
-Flaming,Texture,"750,000",N/A,,Close to none,
-Glowing Yellow,Texture,"750,000",N/A,,Close to none,
-Hotdog,Texture,"750,000",N/A,,Close to none,
-Money,Texture,"750,000",N/A,,Close to none,
-Wavy,Texture,"750,000",N/A,,Close to none,
-Glider Shop,Spoiler,"750,000",N/A,,Close to none,
-Robo Wing,Spoiler,"750,000",N/A,,Close to none,
-SawBlade,Spoiler,"750,000",N/A,,Close to none,
-Skull,Spoiler,"750,000",N/A,,Close to none,
-Star Wing,Spoiler,"750,000",N/A,,Close to none,
-Triple Fin,Spoiler,"750,000",N/A,,Close to none,
-Tuner,Spoiler,"750,000",N/A,,Close to none,
-Waving Flag,Spoiler,"750,000",N/A,,Close to none,
-Sled Void,Rim,"750,000",N/A,,Close to none,
-Hazards,Spoiler,"750,000",N/A,,Close to none,
-Arcade Sports Machine,Furniture,"750,000",N/A,,Close to none,
-Beach Hammock,Furniture,"750,000",N/A,,Close to none,
-Gamer Chair,Furniture,"750,000",N/A,,Close to none,
-If I Had One,Furniture,"750,000",N/A,,Close to none,
-Liberty,Furniture,"750,000",N/A,,Close to none,
-London Telephone Sofa,Furniture,"750,000",N/A,,Close to none,
-Nukamo Fridge,Furniture,"750,000",N/A,,Close to none,
-Puzzle Couch,Furniture,"750,000",N/A,,Close to none,
-Royal Throne,Furniture,"750,000",N/A,,Close to none,
-Super Star Rug,Furniture,"750,000",N/A,,Close to none,
-Tiger Rug,Furniture,"750,000",N/A,,Close to none,
-Tiki Tea Bar,Furniture,"750,000",N/A,,Close to none,
-Track Car Bed,Furniture,"750,000",N/A,,Close to none,
-Fall Chrome,Body Color,"750,000",N/A,,Close to none,
-Winner,Horn,"750,000",N/A,,Close to none,
-Jungle Palm,Rim,"750,000",N/A,,Close to none,
-Storm,Rim,"750,000",N/A,,Close to none,
-Crown,Vehicle,"666,000",N/A,,Close to none,
-Successor,Vehicle,"649,000",N/A,,Close to none,
-Eclaire,Vehicle,"600,000",N/A,,Close to none,
-Nascar 75th,Vehicle,"600,000",N/A,,Close to none,
-Roadster,Vehicle,"600,000",N/A,,Close to none,
-4 Billion,Rim,"500,000",N/A,,Close to none,
-Beachball,Rim,"500,000",N/A,,Close to none,
-Bonded,Rim,"500,000",N/A,,Close to none,
-EXP 1,Rim,"500,000",N/A,,Close to none,
-Live 2020,Rim,"500,000",N/A,,Close to none,
-Piggy,Rim,"500,000",N/A,,Close to none,
-Roll-X,Rim,"500,000",N/A,,Close to none,
-SawBlade,Rim,"500,000",N/A,,Close to none,
-Unknown Signal,Rim,"500,000",N/A,,Close to none,
-Shooting Star,Drift,"500,000",N/A,,Close to none,
-Classic,Vehicle,"500,000",N/A,,Close to none,
-Mighty,Vehicle,"500,000",N/A,,Close to none,
-Posh,Vehicle,"500,000",N/A,,Close to none,
-SUV,Vehicle,"500,000",N/A,,Close to none,
-Steed,Vehicle,"500,000",N/A,,Close to none,
-Venom,Vehicle,"500,000",N/A,,Close to none,
-Bandana,Texture,"500,000",N/A,,Close to none,
-Gulf,Texture,"500,000",N/A,,Close to none,
-Lava,Texture,"500,000",N/A,,Close to none,
-Superstar,Texture,"500,000",N/A,,Close to none,
-Wooden Toy,Texture,"500,000",N/A,,Close to none,
-3 Billion,Spoiler,"500,000",N/A,,Close to none,
-5B Flags,Spoiler,"500,000",N/A,,Close to none,
-6 Billion,Spoiler,"500,000",N/A,,Close to none,
-Death Trap,Spoiler,"500,000",N/A,,Close to none,
-DoYouLift,Spoiler,"500,000",N/A,,Close to none,
-Leaning Wing Of Pisa,Spoiler,"500,000",N/A,,Close to none,
-Live Glider,Spoiler,"500,000",N/A,,Close to none,
-OG Rocket Thrusters,Spoiler,"500,000",N/A,,Close to none,
-Overdrive,Spoiler,"500,000",N/A,,Close to none,
-Snow Log,Spoiler,"500,000",N/A,,Close to none,
-Trade Sail,Spoiler,"500,000",N/A,,Close to none,
-Turning Key,Spoiler,"500,000",N/A,,Close to none,
-UFO,Vehicle,"500,000",N/A,,Unknown,
-Radiant Orange,Body Color,"500,000",N/A,,Close to none,
-Glacier,Tire Style,"500,000",N/A,,Close to none,
-HyperYellow Level 2,HyperChrome,"500,000",N/A,,Close to none,
-80s Cassette Table,Furniture,"500,000",N/A,,Close to none,
-Car Pool Table,Furniture,"500,000",N/A,,Close to none,
-OG Snow Machine,Furniture,"500,000",N/A,,Close to none,
-Champion Trumpets,Horn,"500,000",N/A,,Close to none,
-Spixel,Rim,"500,000",N/A,,Close to none,
-PixelCoin,Drift,"500,000",N/A,,Close to none,
-Black Ice,Weapon Skin,"500,000",N/A,,Close to none,
-Earthquake,Weapon Skin,"500,000",N/A,,Close to none,
-Jungle Vine,Drift,"500,000",N/A,,Close to none,
-Banana Chandelier,Furniture,"500,000",N/A,,Close to none,
-Kraken Attack,Spoiler,"500,000",N/A,,Close to none,
-Pirate Figurehead,Furniture,"500,000",N/A,,Close to none,
-Kraken,Rim,"500,000",N/A,,Close to none,
-Neo-Runner,Rim,"500,000",N/A,,Close to none,
-Cyberpunk,Spoiler,"500,000",N/A,,Close to none,
-Stacked Cyberwing,Spoiler,"500,000",N/A,,Close to none,
-Wyndr,Vehicle,"500,000",N/A,,Close to none,
-Arch9000 Glow,Tire Sticker,"500,000",N/A,,Close to none,
-Pizza Delivery,Vehicle,"500,000",N/A,,Close to none,
-Avatar Wardrobe,Furniture,"500,000",N/A,,Close to none,
-Speed Coil,Rim,"500,000",N/A,,Close to none,
-Haunting Door,Furniture,"500,000",N/A,,Close to none,
-Lightning,Drift,"400,000",N/A,,Unknown,
-Hammer Head,Vehicle,"350,000",N/A,,Close to none,
-Carbon Fire,Texture,"325,000",N/A,,Unknown,
-Forged,Rim,"300,000",N/A,,Close to none,
-Flamethrower,Drift,"300,000",N/A,,Close to none,
-Stunt,Vehicle,"300,000",N/A,,Unknown,
-XRK,Vehicle,"299,000",N/A,,Unknown,
-Belgian Waffle,Rim,"250,000",N/A,,Close to none,
-BoominSpeaker,Rim,"250,000",N/A,,Close to none,
-Cassette,Rim,"250,000",N/A,,Close to none,
-Gun Fire,Rim,"250,000",N/A,,Close to none,
-Heli Prop,Rim,"250,000",N/A,,Close to none,
-Peppermint,Rim,"250,000",N/A,,Close to none,
-Quarter Dollar,Rim,"250,000",N/A,,Close to none,
-Rally,Rim,"250,000",N/A,,Close to none,
-Retro Racer,Rim,"250,000",N/A,,Close to none,
-Road Warrior,Rim,"250,000",N/A,,Close to none,
-Scope,Rim,"250,000",N/A,,Close to none,
-Spyglass,Rim,"250,000",N/A,,Close to none,
-Teddy Bear,Rim,"250,000",N/A,,Close to none,
-Tesseract,Rim,"250,000",N/A,,Close to none,
-Trion,Rim,"250,000",N/A,,Close to none,
-VolleyBall,Rim,"250,000",N/A,,Close to none,
-Synth,Drift,"250,000",N/A,,Close to none,
-Fiasco,Vehicle,"250,000",N/A,,Close to none,
-OG La Matador,Vehicle,"250,000",N/A,,Close to none,
-Sentinel,Vehicle,"250,000",N/A,,Unknown,
-Speed Yacht,Vehicle,"250,000",N/A,,Unknown,
-Buoy,Tire Sticker,"250,000",N/A,,Close to none,
-Champion,Tire Sticker,"250,000",N/A,,Close to none,
-Flags Of Europe,Tire Sticker,"250,000",N/A,,Close to none,
-Tokyo,Tire Sticker,"250,000",N/A,,Close to none,
-Aurora,Texture,"250,000",N/A,,Close to none,
-Comic Convict,Texture,"250,000",N/A,,Close to none,
-Ogre 2017,Texture,"250,000",N/A,,Close to none,
-Retrowave,Texture,"250,000",N/A,,Close to none,
-Road Hazard,Texture,"250,000",N/A,,Close to none,
-Star Spangled,Texture,"250,000",N/A,,Close to none,
-Touchdown,Texture,"250,000",N/A,,Close to none,
-Aerial Support,Spoiler,"250,000",N/A,,Close to none,
-GTR,Spoiler,"250,000",N/A,,Close to none,
-RC Antenna,Spoiler,"250,000",N/A,,Close to none,
-Scythes,Spoiler,"250,000",N/A,,Close to none,
-Ski Wing,Spoiler,"250,000",N/A,,Close to none,
-T Rex Bone,Spoiler,"250,000",N/A,,Close to none,
-Tank Wing,Spoiler,"250,000",N/A,,Close to none,
-Torero,Spoiler,"250,000",N/A,,Close to none,
-Torii Gate,Spoiler,"250,000",N/A,,Close to none,
-Travel Case,Spoiler,"250,000",N/A,,Close to none,
-Trophy Wings,Spoiler,"250,000",N/A,,Close to none,
-Vintage Wings,Spoiler,"250,000",N/A,,Close to none,
-Alpine Racer,Texture,"250,000",N/A,,Close to none,
-Ice Crystal,Rim,"250,000",N/A,,Close to none,
-Rally Spotlight,Spoiler,"250,000",N/A,,Close to none,
-Darkest Purple,Body Color,"250,000",N/A,,Close to none,
-Radiant Green,Body Color,"250,000",N/A,,Close to none,
-Radiant Pink,Body Color,"250,000",N/A,,Close to none,
-Radiant Polar Blue,Body Color,"250,000",N/A,,Close to none,
-Radiant Purple,Body Color,"250,000",N/A,,Close to none,
-Radiant Red,Body Color,"250,000",N/A,,Close to none,
-Radiant Sun,Body Color,"250,000",N/A,,Close to none,
-Radiant Yellow,Body Color,"250,000",N/A,,Close to none,
-Rollerblade,Tire Style,"250,000",N/A,,Close to none,
-Aurora Chandelier,Furniture,"250,000",N/A,,Close to none,
-French Croissant Sofa,Furniture,"250,000",N/A,,Close to none,
-Giant OG Snowman,Furniture,"250,000",N/A,,Close to none,
-Hero Zapper,Furniture,"250,000",N/A,,Close to none,
-Japanese Neon Sign,Furniture,"250,000",N/A,,Close to none,
-Radiation Radio,Furniture,"250,000",N/A,,Close to none,
-Wanted Background,Furniture,"250,000",N/A,,Close to none,
-Wild West Wagon,Furniture,"250,000",N/A,,Close to none,
-8-Bit,Rim,"250,000",N/A,,Close to none,
-Blue Pixel Racer,Texture,"250,000",N/A,,Close to none,
-Pixel Campfire,Furniture,"250,000",N/A,,Close to none,
-Snake Guard,Spoiler,"250,000",N/A,,Close to none,
-Snake Skin,Texture,"250,000",N/A,,Close to none,
-Rok,Tire Style,"250,000",N/A,,Close to none,
-Brig Bone,Rim,"250,000",N/A,,Close to none,
-Buccaneer,Texture,"250,000",N/A,,Close to none,
-Radiant White,Body Color,"250,000",N/A,,Close to none,
-Magmatic Glow,Tire Style,"250,000",N/A,,Close to none,
-Hatch Voids,Rim,"250,000",N/A,,Close to none,
-Neon Vein Wall-Art,Furniture,"250,000",N/A,,Close to none,
-Vibrant Hologram,Texture,"250,000",N/A,,Close to none,
-Spawn Rug,Furniture,"250,000",N/A,,Close to none,
-RobloxStud,Texture,"250,000",N/A,,Close to none,
-Truss,Rim,"250,000",N/A,,Close to none,
-Radial Red,Tire Style,"250,000",N/A,,Unknown,
-Desert Crawler,Vehicle,"229,000",N/A,,Unknown,
-Dragon Chaser,Rim,"200,000",N/A,,Close to none,
-Stallion,Vehicle,"200,000",N/A,,Unknown,
-Ray 9,Vehicle,"199,000",N/A,,Unknown,
-Lightning,Tire Sticker,"190,000",N/A,,Unknown,
-Little Bird,Vehicle,"190,000",N/A,,Unknown,
-Delorean,Vehicle,"175,000",N/A,,Unknown,
-Fire Truck,Vehicle,"175,000",N/A,,Unknown,
-R-Tracer,Tire Style,"175,000",N/A,,Close to none,
-RFX,Rim,"150,000",N/A,,Unknown,
-Falcon S,Vehicle,"150,000",N/A,,Unknown,
-Prison Bus,Vehicle,"150,000",N/A,,Unknown,
-King,Spoiler,"150,000",N/A,,Unknown,
-Spares,Spoiler,"150,000",N/A,,Unknown,
-SubSpace,Drift,"150,000",N/A,,Close to none,
-Abstracts,Rim,"120,000",N/A,,Close to none,
-Cosmic,Drift,"120,000",N/A,,Close to none,
-Surus,Vehicle,"109,000",N/A,,Unknown,
-Evil Eye,Rim,"100,000",N/A,,Close to none,
-Propeller,Rim,"100,000",N/A,,Close to none,
-Radioactive,Rim,"100,000",N/A,,Close to none,
-Revolver,Rim,"100,000",N/A,,Close to none,
-Vault Door,Rim,"100,000",N/A,,Close to none,
-Magic Purple,Drift,"100,000",N/A,,Unknown,
-CyberTruck,Vehicle,"100,000",N/A,,Unknown,
-La Matador,Vehicle,"100,000",N/A,,Unknown,
-Laviolette,Vehicle,"100,000",N/A,,Close to none,
-Semi Truck,Vehicle,"100,000",N/A,,Unknown,
-Camo Shark,Texture,"100,000",N/A,,Close to none,
-Dragon Scales,Texture,"100,000",N/A,,Unknown,
-Electronic,Texture,"100,000",N/A,,Close to none,
-Ladybug,Texture,"100,000",N/A,,Close to none,
-Peach,Texture,"100,000",N/A,,Close to none,
-Road Warrior,Texture,"100,000",N/A,,Close to none,
-Carbonara,Spoiler,"100,000",N/A,,Unknown,
-Dragon Breath,Spoiler,"100,000",N/A,,Close to none,
-Flame Spitter,Spoiler,"100,000",N/A,,Close to none,
-Laser Wire,Spoiler,"100,000",N/A,,Close to none,
-Nitro Tank,Spoiler,"100,000",N/A,,Close to none,
-Skater Wing,Spoiler,"100,000",N/A,,Close to none,
-Tesla,Spoiler,"100,000",N/A,,Close to none,
-Trouble Wing,Spoiler,"100,000",N/A,,Unknown,
-Escape Bot,Vehicle,"100,000",N/A,,Close to none,
-Cheese Burger,Tire Style,"100,000",N/A,,Close to none,
-Winter Rally Lamp,Furniture,"100,000",N/A,,Close to none,
-DPad,Rim,"100,000",N/A,,Close to none,
-Grande Punto,Rim,"100,000",N/A,,Unknown,
-Jungle Ruins,Tire Style,"100,000",N/A,,Close to none,
-Yarg Cap,Spoiler,"100,000",N/A,,Close to none,
-R2008,Tire Style,"100,000",N/A,,Close to none,
-Brick Kar-1,Spoiler,"100,000",N/A,,Close to none,
-Pool Table,Furniture,"100,000",N/A,,Close to none,
-Gun Rack,Furniture,"100,000",N/A,,Close to none,
-Shell Mark 5,Vehicle,"92,000",N/A,,Unknown,
-Ambulance,Vehicle,"90,000",N/A,,Unknown,
-Tow Truck,Vehicle,"80,000",N/A,,Unknown,
-Desert Camo,Texture,"80,000",N/A,,Unknown,
-Tanker,Vehicle,"80,000",N/A,,Unknown,
-Camper,Vehicle,"79,000",N/A,,Unknown,
-Subcarbon,Rim,"75,000",N/A,,Unknown,
-Pixel,Drift,"75,000",N/A,,Unknown,
-Safari,Tire Style,"75,000",N/A,,Close to none,
-Donut Vending Machine,Furniture,"75,000",N/A,,Close to none,
-Scary Organ,Furniture,"70,000",N/A,,Close to none,
-Construction,Tire Sticker,"60,000",N/A,,Unknown,
-Challenger,Vehicle,"59,000",N/A,,Unknown,
-Boxer,Vehicle,"55,000",N/A,,Unknown,
-Expeditioner,Vehicle,"55,000",N/A,,Close to none,
-Electrostatic,Rim,"50,000",N/A,,Close to none,
-Hold E,Rim,"50,000",N/A,,Close to none,
-Roulette,Rim,"50,000",N/A,,Close to none,
-ATV,Vehicle,"50,000",N/A,,Unknown,
-Speed,Tire Sticker,"50,000",N/A,,Close to none,
-USA,Tire Sticker,"50,000",N/A,,Close to none,
-Camo,Texture,"50,000",N/A,,Unknown,
-Classic Var 1,Texture,"50,000",N/A,,Unknown,
-Classic Var 3,Texture,"50,000",N/A,,Unknown,
-Nuclear Waste,Texture,"50,000",N/A,,Unknown,
-Racer,Texture,"50,000",N/A,,Unknown,
-Speed,Texture,"50,000",N/A,,Close to none,
-Watermelon,Texture,"50,000",N/A,,Unknown,
-BatWings,Spoiler,"50,000",N/A,,Unknown,
-Campout,Spoiler,"50,000",N/A,,Close to none,
-Harpoon,Spoiler,"50,000",N/A,,Close to none,
-Jailbreak Hills,Spoiler,"50,000",N/A,,Close to none,
-Meteor Magnet,Spoiler,"50,000",N/A,,Close to none,
-Native,Spoiler,"50,000",N/A,,Close to none,
-Racer,Spoiler,"50,000",N/A,,Close to none,
-Terminator,Spoiler,"50,000",N/A,,Close to none,
-Jet Ski,Vehicle,"50,000",N/A,,Unknown,
-Trail Trek,Tire Style,"50,000",N/A,,Close to none,
-Cosmetic Safe,Furniture,"50,000",N/A,,Close to none,
-CyberBlue Couch,Furniture,"50,000",N/A,,Close to none,
-Fabulous Sign,Furniture,"50,000",N/A,,Close to none,
-Toy Plane,Furniture,"50,000",N/A,,Close to none,
-Voxel Sofa,Furniture,"50,000",N/A,,Unknown,
-Voxel,Spoiler,"50,000",N/A,,Close to none,
-Manga,Weapon Skin,"50,000",N/A,,Unknown,
-Python,Rim,"50,000",N/A,,Close to none,
-Skull And Sails,Tire Sticker,"50,000",N/A,,Close to none,
-P-100I,Rim,"50,000",N/A,,Close to none,
-Roblox R,Spoiler,"50,000",N/A,,Close to none,
-Energy Vending Machine,Furniture,"50,000",N/A,,Close to none,
-Erics Starship,Furniture,"50,000",N/A,,Close to none,
-Bubble Wand,Drift,"45,000",N/A,,Unknown,
-Badger,Vehicle,"45,000",N/A,,Unknown,
-Dune Buggy,Vehicle,"45,000",N/A,,Unknown,
-Patrol,Vehicle,"45,000",N/A,,Unknown,
-WireFrame,Texture,"45,000",N/A,,Unknown,
-Unified,Rim,"40,000",N/A,,Unknown,
-Candy Cane,Texture,"40,000",N/A,,Unknown,
-Diamond,Texture,"40,000",N/A,,Unknown,
-Donut,Texture,"40,000",N/A,,Unknown,
-Galaxy,Texture,"40,000",N/A,,Unknown,
-Scorch,Texture,"40,000",N/A,,Unknown,
-Zebra,Texture,"40,000",N/A,,Unknown,
-Volcano,Texture,"39,000",N/A,,Unknown,
-Wingo,Spoiler,"37,000",N/A,,Close to none,
-Police Chase,Rim,"35,000",N/A,,Unknown,
-Slashers,Rim,"35,000",N/A,,Close to none,
-VFX,Rim,"35,000",N/A,,Unknown,
-Cartoon,Drift,"35,000",N/A,,Unknown,
-Dirt Bike,Vehicle,"35,000",N/A,,Unknown,
-Badonuts,Tire Sticker,"35,000",N/A,,Close to none,
-Tracer,Tire Sticker,"35,000",N/A,,Unknown,
-Lines,Texture,"35,000",N/A,,Unknown,
-Volt,Texture,"35,000",N/A,,Close to none,
-Museum Chandelier,Furniture,"35,000",N/A,,Close to none,
-Trapped Spikes,Furniture,"33,333",N/A,,Close to none,
-Interrogator,Vehicle,"30,000",N/A,,Unknown,
-Patchy Jeans,Texture,"30,000",N/A,,Unknown,
-Park Bench,Spoiler,"30,000",N/A,,Unknown,
-Badimo Bros Wall Light,Furniture,"30,000",N/A,,Unknown,
-Sloopwreck Bed,Furniture,"30,000",N/A,,Close to none,
-Mark 5,Spoiler,"29,900",N/A,,Unknown,
-Bloxy,Rim,"25,000",N/A,,Unknown,
-Cobweb,Rim,"25,000",N/A,,Close to none,
-Reactor,Rim,"25,000",N/A,,Close to none,
-SRT,Rim,"25,000",N/A,,Close to none,
-Space-R,Rim,"25,000",N/A,,Unknown,
-Melons,Drift,"25,000",N/A,,Unknown,
-Performance,Drift,"25,000",N/A,,Unknown,
-Ray,Vehicle,"25,000",N/A,,Unknown,
-Leap Year,Tire Sticker,"25,000",N/A,,Unknown,
-Radar,Tire Sticker,"25,000",N/A,,Close to none,
-Dragster,Spoiler,"25,000",N/A,,Unknown,
-Police That Way,Spoiler,"25,000",N/A,,Close to none,
-Shogun,Spoiler,"25,000",N/A,,Unknown,
-TailFin,Spoiler,"25,000",N/A,,Unknown,
-Dino Exhibit,Furniture,"25,000",N/A,,Close to none,
-Grand Piano,Furniture,"25,000",N/A,,Close to none,
-Missile Sofa,Furniture,"25,000",N/A,,Close to none,
-TNT Barrel,Furniture,"25,000",N/A,,Close to none,
-VoltLine,Spoiler,"25,000",N/A,,Unknown,
-Corp CR1,Rim,"25,000",N/A,,Unknown,
-Confetti Cannon,Furniture,"25,000",N/A,,Close to none,
-Dance Floor,Furniture,"25,000",N/A,,Close to none,
-DeepSeaAquarium,Furniture,"25,000",N/A,,Close to none,
-RGB Machine,Furniture,"25,000",N/A,,Close to none,
-SupersuitDisplay,Furniture,"25,000",N/A,,Close to none,
-LeEclair,Texture,"21,000",N/A,,Close to none,
-Vecchio,Rim,"20,000",N/A,,Unknown,
-Crash Nation,Tire Sticker,"20,000",N/A,,Unknown,
-Criminal,Tire Sticker,"20,000",N/A,,Unknown,
-DatBrian,Tire Sticker,"20,000",N/A,,Unknown,
-DenisDaily,Tire Sticker,"20,000",N/A,,Unknown,
-JBMS,Tire Sticker,"20,000",N/A,,Unknown,
-Jailbreak,Tire Sticker,"20,000",N/A,,Unknown,
-KraoESP,Tire Sticker,"20,000",N/A,,Unknown,
-KreekCraft,Tire Sticker,"20,000",N/A,,Unknown,
-Line,Tire Sticker,"20,000",N/A,,Unknown,
-MyUsernamesThis,Tire Sticker,"20,000",N/A,,Unknown,
-NoobFreak,Tire Sticker,"20,000",N/A,,Unknown,
-Phindr,Tire Sticker,"20,000",N/A,,Unknown,
-Police,Tire Sticker,"20,000",N/A,,Unknown,
-Thin,Tire Sticker,"20,000",N/A,,Unknown,
-Ball,Texture,"20,000",N/A,,Unknown,
-Frit,Texture,"20,000",N/A,,Unknown,
-Galaxy Wave,Texture,"20,000",N/A,,Unknown,
-Ice,Texture,"20,000",N/A,,Unknown,
-Swirl,Texture,"20,000",N/A,,Unknown,
-Two Sided,Texture,"20,000",N/A,,Unknown,
-Boomerang,Spoiler,"20,000",N/A,,Unknown,
-Racing Wing,Spoiler,"20,000",N/A,,Unknown,
-Tall Arch,Spoiler,"20,000",N/A,,Unknown,
-Tsutek,Spoiler,"20,000",N/A,,Unknown,
-Clown,Horn,"20,000",N/A,,Unknown,
-Money,Weapon Skin,"20,000",N/A,,Unknown,
-Prehistoric,Texture,"20,000",N/A,,Close to none,
-Dual Wingbeat,Spoiler,"20,000",N/A,,Close to none,
-147,Rim,"20,000",N/A,,Close to none,
-Settima,Rim,"20,000",N/A,,Close to none,
-DJBooth,Furniture,"20,000",N/A,,Close to none,
-OrbitalChandelier,Furniture,"20,000",N/A,,Close to none,
-8-Bit Rug,Furniture,"18,000",N/A,,Unknown,
-Model 3,Vehicle,"16,000",N/A,,Unknown,
-RX-1,Rim,"15,000",N/A,,Unknown,
-Taxi,Texture,"15,000",N/A,,Unknown,
-Arch,Spoiler,"15,000",N/A,,Unknown,
-Tiny Wing,Spoiler,"15,000",N/A,,Unknown,
-Tiger,Weapon Skin,"15,000",N/A,,Unknown,
-Wooden Toy,Weapon Skin,"15,000",N/A,,Unknown,
-Treasure Island,Rim,"15,000",N/A,,Close to none,
-Captain Table,Furniture,"15,000",N/A,,Close to none,
-Parisian,Tire Sticker,"12,500",N/A,,Unknown,
-Deep Purple,Body Color,"12,000",N/A,,Close to none,
-7 billion,Rim,"10,000",N/A,,Unknown,
-Billion,Rim,"10,000",N/A,,Unknown,
-Jet,Rim,"10,000",N/A,,Unknown,
-Landmine,Rim,"10,000",N/A,,Close to none,
-Mystic,Rim,"10,000",N/A,,Close to none,
-Spike,Rim,"10,000",N/A,,Close to none,
-Deja,Vehicle,"10,000",N/A,,Unknown,
-Frost,Texture,"10,000",N/A,,Unknown,
-Paint,Texture,"10,000",N/A,,Unknown,
-Box O Cash,Spoiler,"10,000",N/A,,Close to none,
-Eternal Flame,Spoiler,"10,000",N/A,,Close to none,
-Rocket,Spoiler,"10,000",N/A,,Unknown,
-Hot Orange,Body Color,"10,000",N/A,,Close to none,
-Super Lime,Body Color,"10,000",N/A,,Unknown,
-3 Lives,Spoiler,"10,000",N/A,,Unknown,
-Rally Lights,Spoiler,"10,000",N/A,,Close to none,
-Tiki Stack Of Badimo,Furniture,"10,000",N/A,,Close to none,
-Bananas,Drift,"10,000",N/A,,Close to none,
-Parrot,Spoiler,"10,000",N/A,,Close to none,
-Captain Chandelier,Furniture,"10,000",N/A,,Close to none,
-ClassicTVWall,Furniture,"10,000",N/A,,Close to none,
-OakArmChair,Furniture,"10,000",N/A,,Close to none,
-OakArmSofa,Furniture,"10,000",N/A,,Close to none,
-Cactus Buddy,Furniture,"10,000",N/A,,Close to none,
-ClassicRoundDanceFloor,Furniture,"10,000",N/A,,Close to none,
-ClassicSmallDanceFloor,Furniture,"10,000",N/A,,Close to none,
-FancyFireplace,Furniture,"10,000",N/A,,Close to none,
-Heli Night,Furniture,"10,000",N/A,,Close to none,
-ModernKingBed,Furniture,"10,000",N/A,,Close to none,
-ModKitchen,Furniture,"10,000",N/A,,Close to none,
-OakCoffeeTable,Furniture,"10,000",N/A,,Close to none,
-Pixel Portrait,Furniture,"10,000",N/A,,Close to none,
-SmallOrbitalChandelier,Furniture,"10,000",N/A,,Close to none,
-TwinSofa,Furniture,"10,000",N/A,,Close to none,
-Pickup,Vehicle,"9,000",N/A,,Unknown,
-Rest In Peace,Furniture,"6,000",N/A,,Close to none,
-CyberTubes,Furniture,"6,000",N/A,,Close to none,
-Flower,Rim,"5,000",N/A,,Close to none,
-Money,Rim,"5,000",N/A,,Unknown,
-Block Wing,Spoiler,"5,000",N/A,,Unknown,
-Darkest Blue,Body Color,"5,000",N/A,,Unknown,
-Darkest Brown,Body Color,"5,000",N/A,,Unknown,
-Darkest Green,Body Color,"5,000",N/A,,Unknown,
-Darkest Marine,Body Color,"5,000",N/A,,Unknown,
-Darkest Red,Body Color,"5,000",N/A,,Unknown,
-Hottest Pink,Body Color,"5,000",N/A,,Unknown,
-Maroon,Body Color,"5,000",N/A,,Unknown,
-Military Green,Body Color,"5,000",N/A,,Unknown,
-Navy Blue,Body Color,"5,000",N/A,,Unknown,
-Aurora,Weapon Skin,"5,000",N/A,,Unknown,
-Jungle Mosaic,Tire Sticker,"5,000",N/A,,Close to none,
-Mud,Body Color,"5,000",N/A,,Unknown,
-Bamboo,Rim,"5,000",N/A,,Close to none,
-Rally Signage,Furniture,"5,000",N/A,,Close to none,
-Scary Sofa,Furniture,"5,000",N/A,,Close to none,
-Marble Dining Table,Furniture,"5,000",N/A,,Close to none,
-White Ceiling Fan,Furniture,"5,000",N/A,,Close to none,
-Double Sofa,Furniture,"5,000",N/A,,Close to none,
-ClassicDoubleTwin,Furniture,"5,000",N/A,,Close to none,
-Black Ceiling Fan,Furniture,"5,000",N/A,,Close to none,
-BombChandelier,Furniture,"5,000",N/A,,Close to none,
-CatPlush,Furniture,"5,000",N/A,,Close to none,
-DriftwoodShelves,Furniture,"5,000",N/A,,Close to none,
-NightTrainArtwork,Furniture,"5,000",N/A,,Close to none,
-Volt Media Table,Furniture,"5,000",N/A,,Close to none,
-Twin Bed,Furniture,"5,000",N/A,,Close to none,
-ClassicModernCouch,Furniture,"4,500",N/A,,Close to none,
-Classic Var 2,Texture,"4,000",N/A,,Unknown,
-Cow,Texture,"4,000",N/A,,Unknown,
-Rainbow,Texture,"4,000",N/A,,Unknown,
-Flatscreen,Furniture,"4,000",N/A,,Close to none,
-King Bed,Furniture,"4,000",N/A,,Close to none,
-Marble Coffee Table,Furniture,"3,500",N/A,,Close to none,
-Asimos Desk,Furniture,"3,500",N/A,,Close to none,
-Large Houseplant,Furniture,"3,500",N/A,,Close to none,
-ModKitchenIsland,Furniture,"3,500",N/A,,Close to none,
-Turret,Furniture,"3,000",N/A,,Close to none,
-Scary Treasures,Furniture,"2,500",N/A,,Close to none,
-LavaLamp,Furniture,"2,500",N/A,,Close to none,
-ClassicIceTable,Furniture,"2,500",N/A,,Close to none,
-Modern Globe Ceiling Light,Furniture,"2,500",N/A,,Close to none,
-Museum Light,Furniture,"2,500",N/A,,Close to none,
-Recliner,Furniture,"2,500",N/A,,Close to none,
-Tall Houseplant,Furniture,"2,500",N/A,,Close to none,
-Wood Dining Table,Furniture,"2,500",N/A,,Close to none,
-Police,Texture,"2,000",N/A,,Unknown,
-Can Light,Furniture,"2,000",N/A,,Close to none,
-RetroComputer,Furniture,"2,000",N/A,,Close to none,
-Wood Coffee Table,Furniture,"2,000",N/A,,Close to none,
-Solo Sofa,Furniture,"1,750",N/A,,Close to none,
-ConspiracyBoard,Furniture,"1,500",N/A,,Close to none,
-Modern Desk,Furniture,"1,500",N/A,,Close to none,
-Volt Shelf,Furniture,"1,500",N/A,,Close to none,
-Drumset,Furniture,"1,500",N/A,,Close to none,
-FancyWallLamp,Furniture,"1,500",N/A,,Close to none,
-Tulip Chair,Furniture,"1,250",N/A,,Close to none,
-Small Wood Dining Table,Furniture,"1,250",N/A,,Close to none,
-Arachnid,Rim,"1,000",N/A,,Unknown,
-Turbine,Rim,"1,000",N/A,,Unknown,
-Flat Black,Tire Sticker,"1,000",N/A,,Unknown,
-Black,Body Color,"1,000",N/A,,Close to none,
-Blue,Body Color,"1,000",N/A,,Unknown,
-Cyan,Body Color,"1,000",N/A,,Unknown,
-Forest Green,Body Color,"1,000",N/A,,Unknown,
-Green,Body Color,"1,000",N/A,,Unknown,
-Grey,Body Color,"1,000",N/A,,Unknown,
-Matte,Body Color,"1,000",N/A,,Unknown,
-White,Body Color,"1,000",N/A,,Unknown,
-Police Desk,Furniture,"1,000",N/A,,Close to none,
-Small Curtain,Furniture,"1,000",N/A,,Close to none,
-Floor Globe Blue,Furniture,"1,000",N/A,,Close to none,
-Large Curtain,Furniture,"1,000",N/A,,Close to none,
-Modern White Lamp,Furniture,"1,000",N/A,,Close to none,
-Star Rug,Furniture,"1,000",N/A,,Close to none,
-Wood Media Table,Furniture,750,N/A,,Close to none,
-Outlet,Furniture,500,N/A,,Close to none,
-SmokeDetector,Furniture,500,N/A,,Close to none,
-Switch1,Furniture,500,N/A,,Close to none,
-Switch2,Furniture,500,N/A,,Close to none,
-Vent,Furniture,500,N/A,,Close to none,
-Modern Chair,Furniture,400,N/A,,Close to none,
-Step Stool,Furniture,250,N/A,,Close to none,
-Ye Old Chair,Furniture,250,N/A,,Close to none,
-Yellow Lamp,Furniture,250,N/A,,Close to none,
-Shoebox,Furniture,100,N/A,,Close to none,
-Blade,Rim,N/A,N/A,,Unknown,
-Cyclone,Rim,N/A,N/A,,Unknown,
-Halo,Rim,N/A,N/A,,Unknown,
-Star,Rim,N/A,N/A,,Unknown,
-Camaro,Vehicle,N/A,N/A,,Unknown,
-Celestial,Vehicle,N/A,N/A,,Unknown,
-Cruiser,Vehicle,N/A,N/A,,Unknown,
-Jeep,Vehicle,N/A,N/A,,Unknown,
-Lia,Vehicle,N/A,N/A,,Unknown,
-MCL36,Vehicle,N/A,N/A,,Unknown,
-Nascar,Vehicle,N/A,N/A,,Unknown,
-Nascar Free,Vehicle,N/A,N/A,,Unknown,
-Swat Van,Vehicle,N/A,N/A,,Unknown,
-HelloItsVG,Tire Sticker,N/A,N/A,,Unknown,
-Nascar,Tire Sticker,N/A,N/A,,Unknown,
-Creator,Texture,N/A,N/A,,Unknown,
-Deep Purple Flame,Texture,N/A,N/A,,Close to none,
-Live 2024,Rim,N/A,N/A,,Unknown,
-Catch Me,Spoiler,N/A,N/A,,Unknown,
-Classic,Spoiler,N/A,N/A,,Unknown,
-XRK Aero,Spoiler,N/A,N/A,,Unknown,
-Heli,Vehicle,N/A,N/A,,Unknown,
-Orange,Body Color,N/A,N/A,,Unknown,
-Pastel Blue,Body Color,N/A,N/A,,Unknown,
-Pastel Brown,Body Color,N/A,N/A,,Unknown,
-Pastel Gray,Body Color,N/A,N/A,,Unknown,
-Pastel Green,Body Color,N/A,N/A,,Unknown,
-Pastel Orange,Body Color,N/A,N/A,,Unknown,
-Pastel Pink,Body Color,N/A,N/A,,Unknown,
-Pastel Violet,Body Color,N/A,N/A,,Unknown,
-Pastel Yellow,Body Color,N/A,N/A,,Unknown,
-Pink,Body Color,N/A,N/A,,Unknown,
-Purple,Body Color,N/A,N/A,,Unknown,
-Real Green,Body Color,N/A,N/A,,Unknown,
-Red,Body Color,N/A,N/A,,Unknown,
-Sakura Pink,Body Color,N/A,N/A,,Unknown,
-Sand,Body Color,N/A,N/A,,Unknown,
-Yellow,Body Color,N/A,N/A,,Unknown,
-Classic Sport,Tire Style,N/A,N/A,,Unknown,
-Classic Thick,Tire Style,N/A,N/A,,Unknown,
-Classic,Tire Style,N/A,N/A,,Unknown,
-Monster,Tire Style,N/A,N/A,,Unknown,
-Offroad,Tire Style,N/A,N/A,,Unknown,
-Treaded Sport,Tire Style,N/A,N/A,,Unknown,
-Treaded Thick,Tire Style,N/A,N/A,,Unknown,
-Treaded,Tire Style,N/A,N/A,,Unknown,
-HyperBlue Level 1,HyperChrome,N/A,N/A,,Unknown,
-HyperDiamond Level 1,HyperChrome,N/A,N/A,,Unknown,
-HyperGreen Level 1,HyperChrome,N/A,N/A,,Unknown,
-HyperOrange Level 1,HyperChrome,N/A,N/A,,Unknown,
-HyperPink Level 1,HyperChrome,N/A,N/A,,Unknown,
-HyperPurple Level 1,HyperChrome,N/A,N/A,,Unknown,
-HyperRed Level 1,HyperChrome,N/A,N/A,,Unknown,
-HyperYellow Level 1,HyperChrome,N/A,N/A,,Unknown,
-VIP Radio,Furniture,N/A,N/A,,Unknown,
-VIP Chrome,Body Color,N/A,N/A,,Unknown,
-Ahooga,Horn,N/A,N/A,,Unknown,
-Airhorn,Horn,N/A,N/A,,Unknown,
-Bicycle,Horn,N/A,N/A,,Unknown,
-City,Horn,N/A,N/A,,Unknown,
-Countdown,Horn,N/A,N/A,,Unknown,
-Cruise Liner,Horn,N/A,N/A,,Unknown,
-Drop Weapons,Horn,N/A,N/A,,Unknown,
-Fire Brigade,Horn,N/A,N/A,,Unknown,
-Injan,Horn,N/A,N/A,,Unknown,
-Meep Meep,Horn,N/A,N/A,,Unknown,
-Original,Horn,N/A,N/A,,Unknown,
-Quack,Horn,N/A,N/A,,Unknown,
-Realistic,Horn,N/A,N/A,,Unknown,
-Rumble Siren,Horn,N/A,N/A,,Unknown,
-Sendoff,Horn,N/A,N/A,,Unknown,
-Steamer,Horn,N/A,N/A,,Unknown,
-Train,Horn,N/A,N/A,,Unknown,
-Gamer TV Set,Furniture,N/A,N/A,,Unknown,
-Insert Coin,Tire Sticker,N/A,N/A,,Unknown,
-HungrySnake,Tire Sticker,N/A,N/A,,Unknown,
-Pixel Wardrobe,Furniture,N/A,N/A,,Unknown,
-Aquatic,Weapon Skin,N/A,N/A,,Unknown,
-Camo,Weapon Skin,N/A,N/A,,Unknown,
-Candy Cane,Weapon Skin,N/A,N/A,,Unknown,
-Diamond,Weapon Skin,N/A,N/A,,Unknown,
-Donut,Weapon Skin,N/A,N/A,,Unknown,
-Camo Radar,Weapon Skin,N/A,N/A,,Unknown,
-Rainbow,Weapon Skin,N/A,N/A,,Unknown,
-Scorch,Weapon Skin,N/A,N/A,,Unknown,
-Zebra,Weapon Skin,N/A,N/A,,Unknown,
-Nascar Hauler,Texture,N/A,N/A,,Unknown,
-Swat Graffiti,Texture,N/A,N/A,,Unknown,
-MCL36,Tire Sticker,N/A,N/A,,Unknown,
-MCL36,Rim,N/A,N/A,,Unknown,
-laughability,Tire Sticker,N/A,N/A,,Unknown,
-Bleeding Edge,Spoiler,N/A,N/A,,Unknown,
-Jade Glow,Tire Sticker,N/A,N/A,,Unknown,
-Hologram Donut Vendor,Furniture,N/A,N/A,,Unknown,
-Wanted Hologram Signage,Furniture,N/A,N/A,,Unknown,
-ArmorPunk,Rim,N/A,N/A,,Unknown,
-Hex-Bond,Rim,N/A,N/A,,Unknown,
-Cracky4,Texture,N/A,N/A,,Unknown,
-Doghouse Bulldog,Furniture,N/A,N/A,,Unknown,
-Doghouse German,Furniture,N/A,N/A,,Unknown,
-Bounty Board,Furniture,N/A,N/A,,Unknown,
-Animated Obby,Rim,N/A,N/A,,Close to none,
-Classic Jet,Spoiler,N/A,N/A,,Close to none,
-Delivery,Rim,N/A,N/A,,Unknown,
-SFOTH,Tire Sticker,N/A,N/A,,Unknown,
-Spawn,Rim,N/A,N/A,,Close to none,
-Studded,Tire Style,N/A,N/A,,Unknown,
-Reaper,Spoiler,N/A,N/A,,Unknown,
-Bad Omen,Rim,N/A,N/A,,Unknown,
-Chilling,Texture,N/A,N/A,,Unknown,
-Ghost Catcher,Spoiler,N/A,N/A,,Unknown,
-Scythes,Rim,N/A,N/A,,Unknown,
-King Reaper,Spoiler,N/A,N/A,,Unknown,
-Thing,Tire Sticker,N/A,N/A,,Unknown,
-Bank Truck,Vehicle,N/A,N/A,,Unknown,
-AdminNuke,Vehicle,N/A,N/A,,Unknown,
-Lapine,Rim,N/A,N/A,,Unknown,
+,name,category,value,duped_value,demand,rarity,getsop,trend
+0,147,Rim,20000.0,,Close to none,N/a,N/a,N/a
+1,2 Billion,Spoiler,6000000.0,,Close to none,N/a,N/a,N/a
+2,3 Billion,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+3,3 Billion,Tire Sticker,750000.0,,Close to none,N/a,N/a,N/a
+4,3 Lives,Spoiler,10000.0,,Unknown,N/a,N/a,N/a
+5,4 Billion,Rim,500000.0,,Close to none,N/a,N/a,N/a
+6,5 Star,Spoiler,3500000.0,,Close to none,N/a,N/a,N/a
+7,5B Flags,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+8,6 Billion,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+9,7 billion,Rim,10000.0,,Unknown,N/a,N/a,N/a
+10,8-Bit,Rim,250000.0,,Close to none,N/a,N/a,N/a
+11,8-Bit Rug,Furniture,18000.0,,Unknown,N/a,N/a,N/a
+12,80s Cassette Table,Furniture,500000.0,,Close to none,N/a,N/a,N/a
+13,80s Style,Tire Sticker,750000.0,,Close to none,N/a,N/a,N/a
+14,ATV,Vehicle,50000.0,,Unknown,N/a,N/a,N/a
+15,Abstracts,Rim,120000.0,,Close to none,N/a,N/a,N/a
+16,AdminNuke,Vehicle,,,Unknown,N/a,N/a,N/a
+17,Aerial Support,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+18,Aeroblob,Rim,,,Unknown,N/a,N/a,N/a
+19,After Burner,Spoiler,1500000.0,,Very Low,N/a,N/a,N/a
+20,Agent,Vehicle,2000000.0,,Low,N/a,N/a,N/a
+21,Ahooga,Horn,,,Unknown,N/a,N/a,N/a
+22,Air Hockey Table,Furniture,1000000.0,,Close to none,N/a,N/a,N/a
+23,Airhorn,Horn,,,Unknown,N/a,N/a,N/a
+24,Airtail,Vehicle,3000000.0,,Decent,N/a,N/a,N/a
+25,Alpine Racer,Texture,250000.0,,Close to none,N/a,N/a,N/a
+26,Ambulance,Vehicle,90000.0,,Unknown,N/a,N/a,N/a
+27,America,Tire Style,1000000.0,,Close to none,N/a,N/a,N/a
+28,Animated Obby,Rim,,,Close to none,N/a,N/a,N/a
+29,Aperture,Vehicle,7500000.0,,Decent,N/a,N/a,N/a
+30,Aquatic,Texture,750000.0,,Very Low,N/a,N/a,N/a
+31,Aquatic,Weapon Skin,,,Unknown,N/a,N/a,N/a
+32,Arachnid,Rim,1000.0,,Unknown,N/a,N/a,N/a
+33,Arachnid,Vehicle,17500000.0,15000000.0,Low,N/a,N/a,N/a
+34,Arcade Portal,Furniture,1000000.0,,Close to none,N/a,N/a,N/a
+35,Arcade Racer,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+36,Arcade Sports Machine,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+37,Arch,Spoiler,15000.0,,Unknown,N/a,N/a,N/a
+38,Arch9000 Glow,Tire Sticker,500000.0,,Close to none,N/a,N/a,N/a
+39,Armor,Texture,1500000.0,,Very Low,N/a,N/a,N/a
+40,ArmorPunk,Rim,50000.0,,Unknown,N/a,N/a,N/a
+41,Asimos Desk,Furniture,3500.0,,Close to none,N/a,N/a,N/a
+42,Aurora,Drift,2000000.0,,Medium,N/a,N/a,N/a
+43,Aurora,Texture,250000.0,,Close to none,N/a,N/a,N/a
+44,Aurora,Weapon Skin,5000.0,,Unknown,N/a,N/a,N/a
+45,Aurora Chandelier,Furniture,250000.0,,Close to none,N/a,N/a,N/a
+46,Avatar Wardrobe,Furniture,500000.0,,Close to none,N/a,N/a,N/a
+47,Bacon,Texture,750000.0,,Close to none,N/a,N/a,N/a
+48,Bad Omen,Rim,50000.0,,Unknown,N/a,N/a,N/a
+49,Badger,Vehicle,45000.0,,Unknown,N/a,N/a,N/a
+50,Badimo Bros Wall Light,Furniture,30000.0,,Unknown,N/a,N/a,N/a
+51,Badonuts,Tire Sticker,35000.0,,Close to none,N/a,N/a,N/a
+52,Ball,Texture,20000.0,,Unknown,N/a,N/a,N/a
+53,Baller,Rim,1000000.0,,Close to none,N/a,N/a,N/a
+54,Bamboo,Rim,5000.0,,Close to none,N/a,N/a,N/a
+55,Bamboo Shooters,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+56,Banana Car,Vehicle,16000000.0,,Medium,N/a,N/a,N/a
+57,Banana Chandelier,Furniture,500000.0,,Close to none,N/a,N/a,N/a
+58,Bananas,Drift,10000.0,,Close to none,N/a,N/a,N/a
+59,Bandana,Texture,500000.0,,Close to none,N/a,N/a,N/a
+60,Bandit,Vehicle,5000000.0,,Decent,N/a,N/a,N/a
+61,Bank Truck,Vehicle,,,Unknown,N/a,N/a,N/a
+62,BatWings,Spoiler,50000.0,,Unknown,N/a,N/a,N/a
+63,Beach Hammock,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+64,Beachball,Rim,500000.0,,Close to none,N/a,N/a,N/a
+65,Beadlock,Rim,750000.0,,Close to none,N/a,N/a,N/a
+66,Beam Hybrid,Vehicle,19000000.0,16000000.0,Decent,N/a,N/a,N/a
+67,Beignet,Vehicle,40000000.0,37000000.0,High,N/a,N/a,N/a
+68,Belgian Waffle,Rim,250000.0,,Close to none,N/a,N/a,N/a
+69,Berlin Graffiti,Texture,1000000.0,,Very Low,N/a,N/a,N/a
+70,Bicycle,Horn,,,Unknown,N/a,N/a,N/a
+71,Bicycle Rack,Spoiler,5500000.0,,Close to none,N/a,N/a,N/a
+72,Billion,Rim,10000.0,,Unknown,N/a,N/a,N/a
+73,Biohazard,Rim,1000000.0,,Close to none,N/a,N/a,N/a
+74,Bionic,Vehicle,1000000.0,,Very Low,N/a,N/a,N/a
+75,Birdtail,Spoiler,,,Unknown,N/a,N/a,N/a
+76,Black,Body Color,1000.0,,Close to none,N/a,N/a,N/a
+77,Black Ceiling Fan,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+78,Black Hawk,Vehicle,1000000.0,,Close to none,N/a,N/a,N/a
+79,Black Ice,Texture,2500000.0,,Very Low,N/a,N/a,N/a
+80,Black Ice,Weapon Skin,500000.0,,Close to none,N/a,N/a,N/a
+81,Black Widow,Vehicle,2250000.0,,Low,N/a,N/a,N/a
+82,Blackbeard,Vehicle,1500000.0,,Very Low,N/a,N/a,N/a
+83,Blade,Rim,,,Unknown,N/a,N/a,N/a
+84,Bleeding Edge,Spoiler,,,Unknown,N/a,N/a,N/a
+85,Block Wing,Spoiler,5000.0,,Unknown,N/a,N/a,N/a
+86,Bloxxer,Drift,1000000.0,,Close to none,N/a,N/a,N/a
+87,Bloxxer Launcher,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+88,Bloxy,Rim,25000.0,,Unknown,N/a,N/a,N/a
+89,Bloxy,Vehicle,2500000.0,,Decent,N/a,N/a,N/a
+90,Bloxy Lisa,Furniture,1000000.0,,Close to none,N/a,N/a,N/a
+91,Blue,Body Color,1000.0,,Unknown,N/a,N/a,N/a
+92,Blue 50,Tire Sticker,7500000.0,,Very Low,N/a,N/a,N/a
+93,Blue Chute,Spoiler,1250000.0,,Close to none,N/a,N/a,N/a
+94,Blue Eyes,Rim,2500000.0,,Very Low,N/a,N/a,N/a
+95,Blue Fire,Drift,18500000.0,,Decent,N/a,N/a,N/a
+96,Blue Pixel,Texture,2500000.0,,Low,N/a,N/a,N/a
+97,Blue Pixel Racer,Texture,250000.0,,Close to none,N/a,N/a,N/a
+98,Blue Portal,Rim,1500000.0,,Very Low,N/a,N/a,N/a
+99,Blue S3,Tire Sticker,1000000.0,,Close to none,N/a,N/a,N/a
+100,BlueBird,Vehicle,1500000.0,,Very Low,N/a,N/a,N/a
+101,BombChandelier,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+102,Bonded,Rim,500000.0,,Close to none,N/a,N/a,N/a
+103,Boomerang,Spoiler,20000.0,,Unknown,N/a,N/a,N/a
+104,BoominSpeaker,Rim,250000.0,,Close to none,N/a,N/a,N/a
+105,Bounty Board,Furniture,,,Unknown,N/a,N/a,N/a
+106,Box O Cash,Spoiler,10000.0,,Close to none,N/a,N/a,N/a
+107,Boxer,Vehicle,55000.0,,Unknown,N/a,N/a,N/a
+108,Brick Kar-1,Spoiler,100000.0,,Close to none,N/a,N/a,N/a
+109,Brick Kar-1,Vehicle,2500000.0,,Low,N/a,N/a,N/a
+110,Brickset,Drift,1500000.0,,Close to none,N/a,N/a,N/a
+111,Brickset,Rim,2500000.0,,Very Low,N/a,N/a,N/a
+112,Brickset,Spoiler,2500000.0,,Close to none,N/a,N/a,N/a
+113,Brickset,Tire Style,6000000.0,,Decent,N/a,N/a,N/a
+114,Brig Bone,Rim,250000.0,,Close to none,N/a,N/a,N/a
+115,Brulee,Vehicle,3000000.0,,Decent,N/a,N/a,N/a
+116,Bubble Wand,Drift,45000.0,,Unknown,N/a,N/a,N/a
+117,Buccaneer,Texture,250000.0,,Close to none,N/a,N/a,N/a
+118,Bull,Rim,1250000.0,,Very Low,N/a,N/a,N/a
+119,Bull,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+120,Bunnybed,Furniture,12500.0,,Unknown,N/a,N/a,N/a
+121,Buoy,Tire Sticker,250000.0,,Close to none,N/a,N/a,N/a
+122,Cactus Buddy,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+123,Camaro,Vehicle,,,Unknown,N/a,N/a,N/a
+124,Camo,Texture,50000.0,,Unknown,N/a,N/a,N/a
+125,Camo,Weapon Skin,,,Unknown,N/a,N/a,N/a
+126,Camo Radar,Texture,750000.0,,Close to none,N/a,N/a,N/a
+127,Camo Radar,Weapon Skin,,,Unknown,N/a,N/a,N/a
+128,Camo Shark,Texture,100000.0,,Close to none,N/a,N/a,N/a
+129,Camper,Vehicle,79000.0,,Unknown,N/a,N/a,N/a
+130,Campout,Spoiler,50000.0,,Close to none,N/a,N/a,N/a
+131,Can Light,Furniture,2000.0,,Close to none,N/a,N/a,N/a
+132,Candy Cane,Texture,40000.0,,Unknown,N/a,N/a,N/a
+133,Candy Cane,Weapon Skin,,,Unknown,N/a,N/a,N/a
+134,Cannonfire,Spoiler,1250000.0,,Close to none,N/a,N/a,N/a
+135,Captain Chandelier,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+136,Captain Table,Furniture,15000.0,,Close to none,N/a,N/a,N/a
+137,Car Pool Table,Furniture,500000.0,,Close to none,N/a,N/a,N/a
+138,Carbon Fire,Texture,325000.0,,Unknown,N/a,N/a,N/a
+139,Carbonara,Spoiler,100000.0,,Unknown,N/a,N/a,N/a
+140,Carbonara,Vehicle,5500000.0,,Decent,N/a,N/a,N/a
+141,Cartoon,Drift,35000.0,,Unknown,N/a,N/a,N/a
+142,Cash Spitter,Spoiler,3500000.0,,Decent,N/a,N/a,N/a
+143,Cassette,Rim,250000.0,,Close to none,N/a,N/a,N/a
+144,Cassette,Spoiler,,,Unknown,N/a,N/a,N/a
+145,CatPlush,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+146,Catch Me,Spoiler,50000.0,,Unknown,N/a,N/a,N/a
+147,Celestial,Vehicle,,,Unknown,N/a,N/a,N/a
+148,Celsior,Vehicle,30000000.0,28000000.0,Low,N/a,N/a,N/a
+149,Center Lock,Rim,2500000.0,,Very Low,N/a,N/a,N/a
+150,Challenger,Vehicle,59000.0,,Unknown,N/a,N/a,N/a
+151,Champion,Tire Sticker,250000.0,,Close to none,N/a,N/a,N/a
+152,Champion Trumpets,Horn,500000.0,,Close to none,N/a,N/a,N/a
+153,Checker,Texture,41000000.0,38000000.0,Decent,N/a,N/a,N/a
+154,Cheese Burger,Tire Style,250000.0,,Close to none,N/a,N/a,N/a
+155,Chilling,Texture,250000.0,,Unknown,N/a,N/a,N/a
+156,Circuit Board,Weapon Skin,1500000.0,,Close to none,N/a,N/a,N/a
+157,Circuits,Texture,1000000.0,,Close to none,N/a,N/a,N/a
+158,City,Horn,,,Unknown,N/a,N/a,N/a
+159,Classic,Spoiler,7500.0,,Unknown,N/a,N/a,N/a
+160,Classic,Tire Style,,,Unknown,N/a,N/a,N/a
+161,Classic,Vehicle,500000.0,,Close to none,N/a,N/a,N/a
+162,Classic Jet,Spoiler,,,Close to none,N/a,N/a,N/a
+163,Classic Sport,Tire Style,,,Unknown,N/a,N/a,N/a
+164,Classic Thick,Tire Style,,,Unknown,N/a,N/a,N/a
+165,Classic Var 1,Texture,50000.0,,Unknown,N/a,N/a,N/a
+166,Classic Var 2,Texture,4000.0,,Unknown,N/a,N/a,N/a
+167,Classic Var 3,Texture,50000.0,,Unknown,N/a,N/a,N/a
+168,ClassicDoubleTwin,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+169,ClassicIceTable,Furniture,2500.0,,Close to none,N/a,N/a,N/a
+170,ClassicModernCouch,Furniture,4500.0,,Close to none,N/a,N/a,N/a
+171,ClassicRoundDanceFloor,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+172,ClassicSmallDanceFloor,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+173,ClassicTVWall,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+174,Clickbait,Spoiler,4000000.0,,Close to none,N/a,N/a,N/a
+175,ClosedCircuit,Tire Style,,,Unknown,N/a,N/a,N/a
+176,Clown,Horn,20000.0,,Unknown,N/a,N/a,N/a
+177,Cobra,Vehicle,2500000.0,,Medium,N/a,N/a,N/a
+178,Cobweb,Rim,25000.0,,Close to none,N/a,N/a,N/a
+179,Colors Of Italy,Spoiler,1500000.0,,Very Low,N/a,N/a,N/a
+180,Comic Convict,Texture,250000.0,,Close to none,N/a,N/a,N/a
+181,Compass,Rim,750000.0,,Close to none,N/a,N/a,N/a
+182,Concept,Vehicle,2500000.0,,Low,N/a,N/a,N/a
+183,Confetti Cannon,Furniture,25000.0,,Close to none,N/a,N/a,N/a
+184,ConspiracyBoard,Furniture,1500.0,,Close to none,N/a,N/a,N/a
+185,Construction,Tire Sticker,60000.0,,Unknown,N/a,N/a,N/a
+186,Corp CR1,Rim,25000.0,,Unknown,N/a,N/a,N/a
+187,Cosmetic Safe,Furniture,50000.0,,Close to none,N/a,N/a,N/a
+188,Cosmic,Drift,120000.0,,Close to none,N/a,N/a,N/a
+189,Countdown,Horn,,,Unknown,N/a,N/a,N/a
+190,Cow,Texture,4000.0,,Unknown,N/a,N/a,N/a
+191,Cracky4,Texture,,,Unknown,N/a,N/a,N/a
+192,Crash Nation,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+193,Crazy Driver,Furniture,,,Unknown,N/a,N/a,N/a
+194,Creator,Texture,,,Unknown,N/a,N/a,N/a
+195,Crew Capsule,Vehicle,9000000.0,,Very Low,N/a,N/a,N/a
+196,Criminal,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+197,Crimson Racer,Texture,1000000.0,,Close to none,N/a,N/a,N/a
+198,Crown,Vehicle,666000.0,,Close to none,N/a,N/a,N/a
+199,Cruise Liner,Horn,,,Unknown,N/a,N/a,N/a
+200,Cruiser,Vehicle,,,Unknown,N/a,N/a,N/a
+201,Cryo Chamber,Furniture,1500000.0,,Close to none,N/a,N/a,N/a
+202,Cucaracha,Horn,1250000.0,,Close to none,N/a,N/a,N/a
+203,Cyan,Body Color,1000.0,,Unknown,N/a,N/a,N/a
+204,CyberBlue Couch,Furniture,50000.0,,Close to none,N/a,N/a,N/a
+205,CyberTruck,Vehicle,100000.0,,Unknown,N/a,N/a,N/a
+206,CyberTubes,Furniture,6000.0,,Close to none,N/a,N/a,N/a
+207,Cyberpunk,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+208,Cyclone,Rim,,,Unknown,N/a,N/a,N/a
+209,DJBooth,Furniture,20000.0,,Close to none,N/a,N/a,N/a
+210,DPad,Rim,100000.0,,Close to none,N/a,N/a,N/a
+211,Dance Floor,Furniture,25000.0,,Close to none,N/a,N/a,N/a
+212,Dark Matter,Drift,1000000.0,,Very Low,N/a,N/a,N/a
+213,Darkest Blue,Body Color,5000.0,,Unknown,N/a,N/a,N/a
+214,Darkest Brown,Body Color,5000.0,,Unknown,N/a,N/a,N/a
+215,Darkest Green,Body Color,5000.0,,Unknown,N/a,N/a,N/a
+216,Darkest Marine,Body Color,5000.0,,Unknown,N/a,N/a,N/a
+217,Darkest Purple,Body Color,250000.0,,Close to none,N/a,N/a,N/a
+218,Darkest Red,Body Color,5000.0,,Unknown,N/a,N/a,N/a
+219,DatBrian,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+220,Daytona,Rim,1500000.0,,Close to none,N/a,N/a,N/a
+221,Death Ray,Spoiler,1500000.0,,Very Low,N/a,N/a,N/a
+222,Death Trap,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+223,Deep Purple,Body Color,12000.0,,Close to none,N/a,N/a,N/a
+224,Deep Purple Flame,Texture,120000.0,,Close to none,N/a,N/a,N/a
+225,DeepSeaAquarium,Furniture,25000.0,,Close to none,N/a,N/a,N/a
+226,Deja,Vehicle,10000.0,,Unknown,N/a,N/a,N/a
+227,Delivery,Rim,,,Unknown,N/a,N/a,N/a
+228,Delorean,Vehicle,175000.0,,Unknown,N/a,N/a,N/a
+229,DenisDaily,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+230,Desert Camo,Texture,80000.0,,Unknown,N/a,N/a,N/a
+231,Desert Crawler,Vehicle,229000.0,,Unknown,N/a,N/a,N/a
+232,Diamond,Texture,40000.0,,Unknown,N/a,N/a,N/a
+233,Diamond,Weapon Skin,,,Unknown,N/a,N/a,N/a
+234,Diamond Engrave,Rim,2000000.0,,Very Low,N/a,N/a,N/a
+235,Digital Confetti,Texture,750000.0,,Close to none,N/a,N/a,N/a
+236,Digital Confetti,Weapon Skin,1500000.0,,Close to none,N/a,N/a,N/a
+237,Digital RGB,Texture,250000.0,,Unknown,N/a,N/a,N/a
+238,Dino,Rim,750000.0,,Close to none,N/a,N/a,N/a
+239,Dino Exhibit,Furniture,25000.0,,Close to none,N/a,N/a,N/a
+240,Dirt Bike,Vehicle,35000.0,,Unknown,N/a,N/a,N/a
+241,Distorted,Rim,1000000.0,,Close to none,N/a,N/a,N/a
+242,DoYouLift,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+243,Doghouse Bulldog,Furniture,,,Unknown,N/a,N/a,N/a
+244,Doghouse German,Furniture,,,Unknown,N/a,N/a,N/a
+245,Donut,Texture,40000.0,,Unknown,N/a,N/a,N/a
+246,Donut,Tire Style,2000000.0,,Very Low,N/a,N/a,N/a
+247,Donut,Weapon Skin,,,Unknown,N/a,N/a,N/a
+248,Donut Vending Machine,Furniture,75000.0,,Close to none,N/a,N/a,N/a
+249,Double Sofa,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+250,Doubloon,Rim,1500000.0,,Close to none,N/a,N/a,N/a
+251,Dragon Breath,Spoiler,100000.0,,Close to none,N/a,N/a,N/a
+252,Dragon Chaser,Rim,200000.0,,Close to none,N/a,N/a,N/a
+253,Dragon Scales,Texture,100000.0,,Unknown,N/a,N/a,N/a
+254,Dragster,Spoiler,25000.0,,Unknown,N/a,N/a,N/a
+255,DriftwoodShelves,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+256,Drip,Texture,20000000.0,,High,N/a,N/a,N/a
+257,Drip,Weapon Skin,11000000.0,,Close to none,N/a,N/a,N/a
+258,Drone,Vehicle,1000000.0,,Close to none,N/a,N/a,N/a
+259,Drop Weapons,Horn,,,Unknown,N/a,N/a,N/a
+260,Drumset,Furniture,1500.0,,Close to none,N/a,N/a,N/a
+261,Dual Flags,Spoiler,1250000.0,,Close to none,N/a,N/a,N/a
+262,Dual Rockets,Spoiler,2000000.0,,Low,N/a,N/a,N/a
+263,Dual Wingbeat,Spoiler,20000.0,,Close to none,N/a,N/a,N/a
+264,Dune Buggy,Vehicle,45000.0,,Unknown,N/a,N/a,N/a
+265,EXP 1,Rim,500000.0,,Close to none,N/a,N/a,N/a
+266,Earth,Texture,1000000.0,,Close to none,N/a,N/a,N/a
+267,Earthquake,Texture,3500000.0,,Low,N/a,N/a,N/a
+268,Earthquake,Weapon Skin,500000.0,,Close to none,N/a,N/a,N/a
+269,Eclaire,Vehicle,600000.0,,Close to none,N/a,N/a,N/a
+270,Eight Leg,Spoiler,3500000.0,,Very Low,N/a,N/a,N/a
+271,Electronic,Texture,100000.0,,Close to none,N/a,N/a,N/a
+272,Electrostatic,Rim,50000.0,,Close to none,N/a,N/a,N/a
+273,Endurance Wing,Spoiler,2000000.0,,Very Low,N/a,N/a,N/a
+274,Energized,Rim,1000000.0,,Close to none,N/a,N/a,N/a
+275,Energy Vending Machine,Furniture,50000.0,,Close to none,N/a,N/a,N/a
+276,Erics Starship,Furniture,50000.0,,Close to none,N/a,N/a,N/a
+277,Escape Bot,Vehicle,100000.0,,Close to none,N/a,N/a,N/a
+278,Eternal Flame,Spoiler,10000.0,,Close to none,N/a,N/a,N/a
+279,Euro Clover Leaf,Rim,1000000.0,,Close to none,N/a,N/a,N/a
+280,Evil Eye,Rim,100000.0,,Close to none,N/a,N/a,N/a
+281,Expeditioner,Vehicle,55000.0,,Close to none,N/a,N/a,N/a
+282,Fabulous Sign,Furniture,50000.0,,Close to none,N/a,N/a,N/a
+283,Falcon S,Vehicle,150000.0,,Unknown,N/a,N/a,N/a
+284,Fall Chrome,Body Color,750000.0,,Close to none,N/a,N/a,N/a
+285,FancyFireplace,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+286,FancyWallLamp,Furniture,1500.0,,Close to none,N/a,N/a,N/a
+287,Fiasco,Vehicle,250000.0,,Close to none,N/a,N/a,N/a
+288,Field,Texture,750000.0,,Close to none,N/a,N/a,N/a
+289,Fire,Texture,3000000.0,,Low,N/a,N/a,N/a
+290,Fire,Weapon Skin,1000000.0,,Close to none,N/a,N/a,N/a
+291,Fire Brigade,Horn,,,Unknown,N/a,N/a,N/a
+292,Fire Truck,Vehicle,175000.0,,Unknown,N/a,N/a,N/a
+293,Flags Of Europe,Tire Sticker,250000.0,,Close to none,N/a,N/a,N/a
+294,Flame Spitter,Spoiler,100000.0,,Close to none,N/a,N/a,N/a
+295,Flamethrower,Drift,300000.0,,Close to none,N/a,N/a,N/a
+296,Flamethrower,Spoiler,1500000.0,,Very Low,N/a,N/a,N/a
+297,Flaming,Texture,750000.0,,Close to none,N/a,N/a,N/a
+298,Flaming,Weapon Skin,1500000.0,,Close to none,N/a,N/a,N/a
+299,Flat Black,Tire Sticker,1000.0,,Unknown,N/a,N/a,N/a
+300,Flatscreen,Furniture,4000.0,,Close to none,N/a,N/a,N/a
+301,Floor Globe Blue,Furniture,1000.0,,Close to none,N/a,N/a,N/a
+302,Flower,Rim,5000.0,,Close to none,N/a,N/a,N/a
+303,Foosball Table,Furniture,1250000.0,,Close to none,N/a,N/a,N/a
+304,Fore,Rim,1500000.0,,Very Low,N/a,N/a,N/a
+305,Forest Green,Body Color,1000.0,,Unknown,N/a,N/a,N/a
+306,Forged,Rim,300000.0,,Close to none,N/a,N/a,N/a
+307,FreeStyle,Tire Sticker,250000.0,,Unknown,N/a,N/a,N/a
+308,French Croissant Sofa,Furniture,250000.0,,Close to none,N/a,N/a,N/a
+309,Frit,Texture,20000.0,,Unknown,N/a,N/a,N/a
+310,Frost,Texture,10000.0,,Unknown,N/a,N/a,N/a
+311,Frost Crawler,Vehicle,1250000.0,,Close to none,N/a,N/a,N/a
+312,Frostburn,Rim,1500000.0,,Very Low,N/a,N/a,N/a
+313,GTR,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+314,Galactic Carbon,Texture,3500000.0,,Low,N/a,N/a,N/a
+315,Galactic Carbon,Weapon Skin,1000000.0,,Close to none,N/a,N/a,N/a
+316,Galaxy,Texture,40000.0,,Unknown,N/a,N/a,N/a
+317,Galaxy Wave,Texture,20000.0,,Unknown,N/a,N/a,N/a
+318,Gamer Chair,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+319,Gamer TV Set,Furniture,,,Unknown,N/a,N/a,N/a
+320,Ghost Catcher,Spoiler,1000000.0,,Unknown,N/a,N/a,N/a
+321,Giant OG Snowman,Furniture,250000.0,,Close to none,N/a,N/a,N/a
+322,Glacier,Tire Style,500000.0,,Close to none,N/a,N/a,N/a
+323,Glider,Spoiler,3000000.0,,Very Low,N/a,N/a,N/a
+324,Glider Shop,Spoiler,750000.0,,Close to none,N/a,N/a,N/a
+325,Glowing Yellow,Texture,750000.0,,Close to none,N/a,N/a,N/a
+326,Gold,Body Color,1250000.0,,Very Low,N/a,N/a,N/a
+327,Goliath,Vehicle,5000000.0,,Decent,N/a,N/a,N/a
+328,Gradient Pixel,Drift,8500000.0,,Decent,N/a,N/a,N/a
+329,Grand Piano,Furniture,25000.0,,Close to none,N/a,N/a,N/a
+330,Grande Punto,Rim,100000.0,,Unknown,N/a,N/a,N/a
+331,Green,Body Color,1000.0,,Unknown,N/a,N/a,N/a
+332,Grey,Body Color,1000.0,,Unknown,N/a,N/a,N/a
+333,Guitar Riff,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+334,Gulf,Texture,500000.0,,Close to none,N/a,N/a,N/a
+335,Gun Fire,Rim,250000.0,,Close to none,N/a,N/a,N/a
+336,Gun Rack,Furniture,100000.0,,Close to none,N/a,N/a,N/a
+337,Halo,Rim,,,Unknown,N/a,N/a,N/a
+338,Hammer Head,Vehicle,350000.0,,Close to none,N/a,N/a,N/a
+339,Handcuff,Rim,750000.0,,Close to none,N/a,N/a,N/a
+340,Harpoon,Spoiler,50000.0,,Close to none,N/a,N/a,N/a
+341,Hatch Voids,Rim,250000.0,,Close to none,N/a,N/a,N/a
+342,Haunting Door,Furniture,500000.0,,Close to none,N/a,N/a,N/a
+343,Hazards,Spoiler,750000.0,,Close to none,N/a,N/a,N/a
+344,Heli,Vehicle,,,Unknown,N/a,N/a,N/a
+345,Heli Night,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+346,Heli Prop,Rim,250000.0,,Close to none,N/a,N/a,N/a
+347,HelloItsVG,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+348,Hero Zapper,Furniture,250000.0,,Close to none,N/a,N/a,N/a
+349,Hex-Bond,Rim,,,Unknown,N/a,N/a,N/a
+350,Hold E,Rim,50000.0,,Close to none,N/a,N/a,N/a
+351,Holo,Spoiler,,,Unknown,N/a,N/a,N/a
+352,Hologram Donut Vendor,Furniture,25000.0,,Unknown,N/a,N/a,N/a
+353,Hot Chocolate Tub,Furniture,3500000.0,,Close to none,N/a,N/a,N/a
+354,Hot Orange,Body Color,10000.0,,Close to none,N/a,N/a,N/a
+355,Hotdog,Texture,750000.0,,Close to none,N/a,N/a,N/a
+356,Hottest Pink,Body Color,5000.0,,Unknown,N/a,N/a,N/a
+357,HungrySnake,Tire Sticker,,,Unknown,N/a,N/a,N/a
+358,HyperBlue Level 1,HyperChrome,,,Unknown,N/a,N/a,N/a
+359,HyperBlue Level 2,HyperChrome,4000000.0,,Low,N/a,N/a,N/a
+360,HyperBlue Level 3,HyperChrome,21000000.0,,Low,N/a,N/a,N/a
+361,HyperBlue Level 4,HyperChrome,46000000.0,,Very Low,N/a,N/a,N/a
+362,HyperBlue Level 5,HyperChrome,59000000.0,50000000.0,Low,N/a,N/a,N/a
+363,HyperDiamond Level 1,HyperChrome,,,Unknown,N/a,N/a,N/a
+364,HyperDiamond Level 2,HyperChrome,3500000.0,,Medium,N/a,N/a,N/a
+365,HyperDiamond Level 3,HyperChrome,18000000.0,,Decent,N/a,N/a,N/a
+366,HyperDiamond Level 4,HyperChrome,46000000.0,,Low,N/a,N/a,N/a
+367,HyperDiamond Level 5,HyperChrome,65000000.0,60000000.0,Low,N/a,N/a,N/a
+368,HyperGreen Level 1,HyperChrome,,,Unknown,N/a,N/a,N/a
+369,HyperGreen Level 2,HyperChrome,1000000.0,,Close to none,N/a,N/a,N/a
+370,HyperGreen Level 3,HyperChrome,4000000.0,,Medium,N/a,N/a,N/a
+371,HyperGreen Level 4,HyperChrome,19000000.0,,Low,N/a,N/a,N/a
+372,HyperGreen Level 5,HyperChrome,25000000.0,23000000.0,Decent,N/a,N/a,N/a
+373,HyperOrange Level 1,HyperChrome,,,Unknown,N/a,N/a,N/a
+374,HyperOrange Level 2,HyperChrome,1000000.0,,Close to none,N/a,N/a,N/a
+375,HyperOrange Level 3,HyperChrome,4000000.0,,Medium,N/a,N/a,N/a
+376,HyperOrange Level 4,HyperChrome,20000000.0,,Low,N/a,N/a,N/a
+377,HyperOrange Level 5,HyperChrome,34000000.0,31500000.0,Decent,N/a,N/a,N/a
+378,HyperPink Level 1,HyperChrome,,,Unknown,N/a,N/a,N/a
+379,HyperPink Level 2,HyperChrome,1000000.0,,Close to none,N/a,N/a,N/a
+380,HyperPink Level 3,HyperChrome,12000000.0,,Medium,N/a,N/a,N/a
+381,HyperPink Level 4,HyperChrome,40000000.0,,Low,N/a,N/a,N/a
+382,HyperPink Level 5,HyperChrome,58000000.0,51000000.0,Decent,N/a,N/a,N/a
+383,HyperPurple Level 1,HyperChrome,,,Unknown,N/a,N/a,N/a
+384,HyperPurple Level 2,HyperChrome,1000000.0,,Close to none,N/a,N/a,N/a
+385,HyperPurple Level 3,HyperChrome,10000000.0,,Medium,N/a,N/a,N/a
+386,HyperPurple Level 4,HyperChrome,31500000.0,,Medium,N/a,N/a,N/a
+387,HyperPurple Level 5,HyperChrome,42000000.0,40000000.0,Decent,N/a,N/a,N/a
+388,HyperRed Level 1,HyperChrome,,,Unknown,N/a,N/a,N/a
+389,HyperRed Level 2,HyperChrome,1000000.0,,Close to none,N/a,N/a,N/a
+390,HyperRed Level 3,HyperChrome,6000000.0,,Medium,N/a,N/a,N/a
+391,HyperRed Level 4,HyperChrome,26000000.0,,Very Low,N/a,N/a,N/a
+392,HyperRed Level 5,HyperChrome,45000000.0,39000000.0,Decent,N/a,N/a,N/a
+393,HyperShift,HyperChrome,349000000.0,312500000.0,Medium,N/a,N/a,N/a
+394,HyperShift Level 4,HyperChrome,245000000.0,,Very Low,N/a,N/a,N/a
+395,HyperYellow Level 1,HyperChrome,,,Unknown,N/a,N/a,N/a
+396,HyperYellow Level 2,HyperChrome,500000.0,,Close to none,N/a,N/a,N/a
+397,HyperYellow Level 3,HyperChrome,4000000.0,,Medium,N/a,N/a,N/a
+398,HyperYellow Level 4,HyperChrome,14000000.0,,Low,N/a,N/a,N/a
+399,HyperYellow Level 5,HyperChrome,20000000.0,18000000.0,Decent,N/a,N/a,N/a
+400,Hypno,Rim,2500000.0,,Very Low,N/a,N/a,N/a
+401,Ice,Texture,20000.0,,Unknown,N/a,N/a,N/a
+402,Ice Crystal,Rim,250000.0,,Close to none,N/a,N/a,N/a
+403,Ice Spike,Drift,1000000.0,,Very Low,N/a,N/a,N/a
+404,Iceborn,Vehicle,3000000.0,,Medium,N/a,N/a,N/a
+405,Icebreaker,Vehicle,20000000.0,17000000.0,Decent,N/a,N/a,N/a
+406,Icicle,Rim,4500000.0,,Very Low,N/a,N/a,N/a
+407,If I Had One,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+408,Inf1n1ty,Rim,2500000.0,,Decent,N/a,N/a,N/a
+409,Injan,Horn,,,Unknown,N/a,N/a,N/a
+410,Insert Coin,Tire Sticker,,,Unknown,N/a,N/a,N/a
+411,Interrogator,Vehicle,30000.0,,Unknown,N/a,N/a,N/a
+412,Ionize,Rim,4500000.0,,Very Low,N/a,N/a,N/a
+413,Iron Rock,Rim,2500000.0,,Very Low,N/a,N/a,N/a
+414,JB8,Vehicle,3500000.0,,Decent,N/a,N/a,N/a
+415,JBMS,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+416,JBX-0031,Vehicle,3000000.0,,Medium,N/a,N/a,N/a
+417,JDM,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+418,Jackrabbit,Vehicle,1500000.0,,Very Low,N/a,N/a,N/a
+419,Jade Glow,Tire Sticker,,,Unknown,N/a,N/a,N/a
+420,Jailbreak,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+421,Jailbreak Army,Tire Sticker,2000000.0,,Very Low,N/a,N/a,N/a
+422,Jailbreak Hills,Spoiler,50000.0,,Close to none,N/a,N/a,N/a
+423,Japanese,Tire Sticker,2500000.0,,Low,N/a,N/a,N/a
+424,Japanese Lantern,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+425,Japanese Neon Sign,Furniture,250000.0,,Close to none,N/a,N/a,N/a
+426,Javelin,Vehicle,51000000.0,51000000.0,High,N/a,N/a,N/a
+427,Jeep,Vehicle,,,Unknown,N/a,N/a,N/a
+428,Jet,Rim,10000.0,,Unknown,N/a,N/a,N/a
+429,Jet,Vehicle,1000000.0,,Close to none,N/a,N/a,N/a
+430,Jet Ski,Vehicle,50000.0,,Unknown,N/a,N/a,N/a
+431,Jetpack,Spoiler,1500000.0,,Very Low,N/a,N/a,N/a
+432,Jungle Mosaic,Tire Sticker,5000.0,,Close to none,N/a,N/a,N/a
+433,Jungle Palm,Rim,750000.0,,Close to none,N/a,N/a,N/a
+434,Jungle Ruins,Tire Style,100000.0,,Close to none,N/a,N/a,N/a
+435,Jungle Vine,Drift,750000.0,,Close to none,N/a,N/a,N/a
+436,Kanagawa,Tire Sticker,750000.0,,Close to none,N/a,N/a,N/a
+437,Katana,Vehicle,3500000.0,,Medium,N/a,N/a,N/a
+438,King,Spoiler,150000.0,,Unknown,N/a,N/a,N/a
+439,King Bed,Furniture,4000.0,,Close to none,N/a,N/a,N/a
+440,King Reaper,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+441,Kraken,Rim,500000.0,,Close to none,N/a,N/a,N/a
+442,Kraken Attack,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+443,KraoESP,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+444,KreekCraft,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+445,La Matador,Vehicle,100000.0,,Unknown,N/a,N/a,N/a
+446,Ladybug,Texture,100000.0,,Close to none,N/a,N/a,N/a
+447,Landmine,Rim,10000.0,,Close to none,N/a,N/a,N/a
+448,Lapine,Rim,250000.0,,Close to none,N/a,N/a,N/a
+449,Large Curtain,Furniture,1000.0,,Close to none,N/a,N/a,N/a
+450,Large Houseplant,Furniture,3500.0,,Close to none,N/a,N/a,N/a
+451,Laser Cannon,Rim,28000000.0,,Decent,N/a,N/a,N/a
+452,Laser Wire,Spoiler,100000.0,,Close to none,N/a,N/a,N/a
+453,Lava,Texture,500000.0,,Close to none,N/a,N/a,N/a
+454,LavaLamp,Furniture,2500.0,,Close to none,N/a,N/a,N/a
+455,Laviolette,Vehicle,100000.0,,Close to none,N/a,N/a,N/a
+456,LeEclair,Texture,21000.0,,Close to none,N/a,N/a,N/a
+457,Leaning Wing Of Pisa,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+458,Leap Year,Tire Sticker,25000.0,,Unknown,N/a,N/a,N/a
+459,Lia,Vehicle,,,Unknown,N/a,N/a,N/a
+460,Liberty,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+461,Lightning,Drift,400000.0,,Unknown,N/a,N/a,N/a
+462,Lightning,Texture,1000000.0,,Close to none,N/a,N/a,N/a
+463,Lightning,Tire Sticker,190000.0,,Unknown,N/a,N/a,N/a
+464,Line,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+465,Lines,Texture,35000.0,,Unknown,N/a,N/a,N/a
+466,Little Bird,Vehicle,190000.0,,Unknown,N/a,N/a,N/a
+467,Live 2020,Rim,500000.0,,Close to none,N/a,N/a,N/a
+468,Live 2024,Rim,,,Unknown,N/a,N/a,N/a
+469,Live Glider,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+470,London Telephone Sofa,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+471,LongHorn,Vehicle,1500000.0,,Low,N/a,N/a,N/a
+472,MCL36,Rim,,,Unknown,N/a,N/a,N/a
+473,MCL36,Tire Sticker,,,Unknown,N/a,N/a,N/a
+474,MCL36,Vehicle,,,Unknown,N/a,N/a,N/a
+475,Macaron,Vehicle,5500000.0,,Decent,N/a,N/a,N/a
+476,Magic Purple,Drift,100000.0,,Unknown,N/a,N/a,N/a
+477,Magmatic Glow,Tire Style,250000.0,,Close to none,N/a,N/a,N/a
+478,Manga,Texture,1500000.0,,Medium,N/a,N/a,N/a
+479,Manga,Weapon Skin,50000.0,,Unknown,N/a,N/a,N/a
+480,Manta,Vehicle,1000000.0,,Close to none,N/a,N/a,N/a
+481,Marble Coffee Table,Furniture,3500.0,,Close to none,N/a,N/a,N/a
+482,Marble Dining Table,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+483,Mark 5,Spoiler,29900.0,,Unknown,N/a,N/a,N/a
+484,Maroon,Body Color,5000.0,,Unknown,N/a,N/a,N/a
+485,Marshmallow,Rim,1000000.0,,Close to none,N/a,N/a,N/a
+486,Matte,Body Color,1000.0,,Unknown,N/a,N/a,N/a
+487,Maverick,Vehicle,1000000.0,,Close to none,N/a,N/a,N/a
+488,Mecha Arm,Spoiler,1500000.0,,Very Low,N/a,N/a,N/a
+489,Meep Meep,Horn,,,Unknown,N/a,N/a,N/a
+490,Megalodon,Vehicle,1250000.0,,Close to none,N/a,N/a,N/a
+491,Melons,Drift,25000.0,,Unknown,N/a,N/a,N/a
+492,Meteor Magnet,Spoiler,50000.0,,Close to none,N/a,N/a,N/a
+493,Mighty,Vehicle,500000.0,,Close to none,N/a,N/a,N/a
+494,Military Green,Body Color,5000.0,,Unknown,N/a,N/a,N/a
+495,Missile Bed,Furniture,1500000.0,,Close to none,N/a,N/a,N/a
+496,Missile Sofa,Furniture,25000.0,,Close to none,N/a,N/a,N/a
+497,ModKitchen,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+498,ModKitchenIsland,Furniture,3500.0,,Close to none,N/a,N/a,N/a
+499,Model 3,Vehicle,16000.0,,Unknown,N/a,N/a,N/a
+500,Modern Chair,Furniture,400.0,,Close to none,N/a,N/a,N/a
+501,Modern Desk,Furniture,1500.0,,Close to none,N/a,N/a,N/a
+502,Modern Globe Ceiling Light,Furniture,2500.0,,Close to none,N/a,N/a,N/a
+503,Modern White Lamp,Furniture,1000.0,,Close to none,N/a,N/a,N/a
+504,ModernKingBed,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+505,Molten M12,Vehicle,15000000.0,,Decent,N/a,N/a,N/a
+506,Money,Rim,5000.0,,Unknown,N/a,N/a,N/a
+507,Money,Texture,750000.0,,Close to none,N/a,N/a,N/a
+508,Money,Weapon Skin,20000.0,,Unknown,N/a,N/a,N/a
+509,Monster,Tire Style,,,Unknown,N/a,N/a,N/a
+510,Monster,Vehicle,1000000.0,,Close to none,N/a,N/a,N/a
+511,Monstervoid,Rim,,,Unknown,N/a,N/a,N/a
+512,Mud,Body Color,5000.0,,Unknown,N/a,N/a,N/a
+513,Museum Chandelier,Furniture,35000.0,,Close to none,N/a,N/a,N/a
+514,Museum Light,Furniture,2500.0,,Close to none,N/a,N/a,N/a
+515,MyUsernamesThis,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+516,Mystic,Rim,10000.0,,Close to none,N/a,N/a,N/a
+517,Nascar,Tire Sticker,,,Unknown,N/a,N/a,N/a
+518,Nascar,Vehicle,,,Unknown,N/a,N/a,N/a
+519,Nascar 75th,Tire Sticker,1000000.0,,Close to none,N/a,N/a,N/a
+520,Nascar 75th,Vehicle,750000.0,,Close to none,N/a,N/a,N/a
+521,Nascar Free,Vehicle,,,Unknown,N/a,N/a,N/a
+522,Nascar Hauler,Texture,,,Unknown,N/a,N/a,N/a
+523,Native,Spoiler,50000.0,,Close to none,N/a,N/a,N/a
+524,Navy Blue,Body Color,5000.0,,Unknown,N/a,N/a,N/a
+525,Nemesis,Drift,1000000.0,,Close to none,N/a,N/a,N/a
+526,Nemesis,Rim,1000000.0,,Close to none,N/a,N/a,N/a
+527,Neo-Runner,Rim,500000.0,,Close to none,N/a,N/a,N/a
+528,Neo-Static,Drift,1000000.0,,Very Low,N/a,N/a,N/a
+529,Neon Vein Wall-Art,Furniture,250000.0,,Close to none,N/a,N/a,N/a
+530,NightTrainArtwork,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+531,Nitro Tank,Spoiler,100000.0,,Close to none,N/a,N/a,N/a
+532,Noob Scream,Furniture,13500000.0,,Very Low,N/a,N/a,N/a
+533,NoobFreak,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+534,Nuclear Waste,Texture,50000.0,,Unknown,N/a,N/a,N/a
+535,Nukamo Fridge,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+536,OG Fuel,Drift,750000.0,,Close to none,N/a,N/a,N/a
+537,OG La Matador,Vehicle,250000.0,,Close to none,N/a,N/a,N/a
+538,OG Monster,Vehicle,1250000.0,,Close to none,N/a,N/a,N/a
+539,OG Rocket Thrusters,Spoiler,500000.0,,Very Low,N/a,N/a,N/a
+540,OG Snow Machine,Furniture,500000.0,,Close to none,N/a,N/a,N/a
+541,OakArmChair,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+542,OakArmSofa,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+543,OakCoffeeTable,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+544,Ocean Water,Drift,1500000.0,,Very Low,N/a,N/a,N/a
+545,Offroad,Tire Style,,,Unknown,N/a,N/a,N/a
+546,Ogre 2017,Texture,250000.0,,Close to none,N/a,N/a,N/a
+547,Old Town Road,Texture,2000000.0,,Very Low,N/a,N/a,N/a
+548,Orange,Body Color,,,Unknown,N/a,N/a,N/a
+549,Orange Chute,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+550,Orange Pixel,Texture,1500000.0,,Very Low,N/a,N/a,N/a
+551,OrbitalChandelier,Furniture,20000.0,,Close to none,N/a,N/a,N/a
+552,Original,Horn,,,Unknown,N/a,N/a,N/a
+553,Orion M42,Vehicle,3500000.0,,Decent,N/a,N/a,N/a
+554,Outlet,Furniture,500.0,,Close to none,N/a,N/a,N/a
+555,Overdrive,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+556,P-100I,Rim,50000.0,,Close to none,N/a,N/a,N/a
+557,Paint,Texture,10000.0,,Unknown,N/a,N/a,N/a
+558,Parisian,Tire Sticker,12500.0,,Unknown,N/a,N/a,N/a
+559,Parisian,Vehicle,9000000.0,,Decent,N/a,N/a,N/a
+560,Park Bench,Spoiler,30000.0,,Unknown,N/a,N/a,N/a
+561,Parrot,Spoiler,10000.0,,Close to none,N/a,N/a,N/a
+562,Pastel Blue,Body Color,,,Unknown,N/a,N/a,N/a
+563,Pastel Brown,Body Color,,,Unknown,N/a,N/a,N/a
+564,Pastel Gray,Body Color,,,Unknown,N/a,N/a,N/a
+565,Pastel Green,Body Color,,,Unknown,N/a,N/a,N/a
+566,Pastel Orange,Body Color,,,Unknown,N/a,N/a,N/a
+567,Pastel Pink,Body Color,,,Unknown,N/a,N/a,N/a
+568,Pastel Violet,Body Color,,,Unknown,N/a,N/a,N/a
+569,Pastel Yellow,Body Color,,,Unknown,N/a,N/a,N/a
+570,Patchy Jeans,Texture,30000.0,,Unknown,N/a,N/a,N/a
+571,Patrol,Vehicle,45000.0,,Unknown,N/a,N/a,N/a
+572,Peach,Texture,100000.0,,Close to none,N/a,N/a,N/a
+573,Peppermint,Rim,250000.0,,Close to none,N/a,N/a,N/a
+574,Performance,Drift,25000.0,,Unknown,N/a,N/a,N/a
+575,Phindr,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+576,Pickup,Vehicle,9000.0,,Unknown,N/a,N/a,N/a
+577,Picnic Table,Furniture,1500000.0,,Close to none,N/a,N/a,N/a
+578,Piggy,Rim,500000.0,,Close to none,N/a,N/a,N/a
+579,Pink,Body Color,,,Unknown,N/a,N/a,N/a
+580,Pirate Figurehead,Furniture,500000.0,,Close to none,N/a,N/a,N/a
+581,Pixel,Drift,75000.0,,Unknown,N/a,N/a,N/a
+582,Pixel,Texture,1250000.0,,Very Low,N/a,N/a,N/a
+583,Pixel Campfire,Furniture,250000.0,,Close to none,N/a,N/a,N/a
+584,Pixel Portrait,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+585,Pixel Wardrobe,Furniture,,,Unknown,N/a,N/a,N/a
+586,PixelCoin,Drift,500000.0,,Close to none,N/a,N/a,N/a
+587,Pixeltary,Rim,1000000.0,,Close to none,N/a,N/a,N/a
+588,Pizza Delivery,Vehicle,500000.0,,Close to none,N/a,N/a,N/a
+589,Planetary,Rim,2500000.0,,Very Low,N/a,N/a,N/a
+590,Polaire,Vehicle,2500000.0,,Decent,N/a,N/a,N/a
+591,Police,Texture,2000.0,,Unknown,N/a,N/a,N/a
+592,Police,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+593,Police Chase,Rim,35000.0,,Unknown,N/a,N/a,N/a
+594,Police Desk,Furniture,1000.0,,Close to none,N/a,N/a,N/a
+595,Police That Way,Spoiler,25000.0,,Close to none,N/a,N/a,N/a
+596,Pool Table,Furniture,100000.0,,Close to none,N/a,N/a,N/a
+597,Poseidon,Vehicle,2500000.0,,Medium,N/a,N/a,N/a
+598,Posh,Vehicle,500000.0,,Close to none,N/a,N/a,N/a
+599,Power 1,Vehicle,23000000.0,23000000.0,High,N/a,N/a,N/a
+600,Prehistoric,Texture,20000.0,,Close to none,N/a,N/a,N/a
+601,Prison Bus,Vehicle,150000.0,,Unknown,N/a,N/a,N/a
+602,Propeller,Rim,250000.0,,Close to none,N/a,N/a,N/a
+603,Proto-8,Vehicle,30000000.0,30000000.0,High,N/a,N/a,N/a
+604,Purple,Body Color,,,Unknown,N/a,N/a,N/a
+605,Puzzle Couch,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+606,Python,Rim,50000.0,,Close to none,N/a,N/a,N/a
+607,Quack,Horn,,,Unknown,N/a,N/a,N/a
+608,Quarter Dollar,Rim,250000.0,,Close to none,N/a,N/a,N/a
+609,Quicksilver,Rim,500000.0,,Unknown,N/a,N/a,N/a
+610,R-Tracer,Tire Style,175000.0,,Close to none,N/a,N/a,N/a
+611,R2008,Tire Style,100000.0,,Close to none,N/a,N/a,N/a
+612,RC Antenna,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+613,RFX,Rim,150000.0,,Unknown,N/a,N/a,N/a
+614,RGB Machine,Furniture,25000.0,,Close to none,N/a,N/a,N/a
+615,RGB Wall,Furniture,1250000.0,,Close to none,N/a,N/a,N/a
+616,RTX,Rim,14500000.0,,Very Low,N/a,N/a,N/a
+617,RX-1,Rim,15000.0,,Unknown,N/a,N/a,N/a
+618,Race Car Bed,Furniture,2500000.0,,Close to none,N/a,N/a,N/a
+619,Race Simulator,Furniture,3500000.0,,Close to none,N/a,N/a,N/a
+620,Racer,Spoiler,50000.0,,Close to none,N/a,N/a,N/a
+621,Racer,Texture,50000.0,,Unknown,N/a,N/a,N/a
+622,Racing Wing,Spoiler,20000.0,,Unknown,N/a,N/a,N/a
+623,Radar,Rim,2000000.0,,Very Low,N/a,N/a,N/a
+624,Radar,Tire Sticker,25000.0,,Close to none,N/a,N/a,N/a
+625,Radial Red,Tire Style,250000.0,,Unknown,N/a,N/a,N/a
+626,Radiant Green,Body Color,250000.0,,Close to none,N/a,N/a,N/a
+627,Radiant Ice,Body Color,1000000.0,,Very Low,N/a,N/a,N/a
+628,Radiant Orange,Body Color,500000.0,,Close to none,N/a,N/a,N/a
+629,Radiant Pink,Body Color,250000.0,,Close to none,N/a,N/a,N/a
+630,Radiant Polar Blue,Body Color,250000.0,,Close to none,N/a,N/a,N/a
+631,Radiant Purple,Body Color,250000.0,,Close to none,N/a,N/a,N/a
+632,Radiant Red,Body Color,250000.0,,Close to none,N/a,N/a,N/a
+633,Radiant Sun,Body Color,250000.0,,Close to none,N/a,N/a,N/a
+634,Radiant White,Body Color,250000.0,,Close to none,N/a,N/a,N/a
+635,Radiant Yellow,Body Color,250000.0,,Close to none,N/a,N/a,N/a
+636,Radiation Radio,Furniture,250000.0,,Close to none,N/a,N/a,N/a
+637,Radioactive,Rim,250000.0,,Close to none,N/a,N/a,N/a
+638,Rainboom,Drift,,,Unknown,N/a,N/a,N/a
+639,Rainbow,Texture,4000.0,,Unknown,N/a,N/a,N/a
+640,Rainbow,Weapon Skin,,,Unknown,N/a,N/a,N/a
+641,Rally,Rim,250000.0,,Close to none,N/a,N/a,N/a
+642,Rally Lights,Spoiler,10000.0,,Close to none,N/a,N/a,N/a
+643,Rally Signage,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+644,Rally Spotlight,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+645,Raptor,Vehicle,11000000.0,,Decent,N/a,N/a,N/a
+646,Rattler,Vehicle,3500000.0,,Very Low,N/a,N/a,N/a
+647,Ray,Vehicle,25000.0,,Unknown,N/a,N/a,N/a
+648,Ray 9,Vehicle,199000.0,,Unknown,N/a,N/a,N/a
+649,Reactor,Rim,25000.0,,Close to none,N/a,N/a,N/a
+650,Real Green,Body Color,,,Unknown,N/a,N/a,N/a
+651,Realistic,Horn,,,Unknown,N/a,N/a,N/a
+652,Reaper,Spoiler,100000.0,,Close to none,N/a,N/a,N/a
+653,Recliner,Furniture,2500.0,,Close to none,N/a,N/a,N/a
+654,Red,Body Color,,,Unknown,N/a,N/a,N/a
+655,Red 50,Tire Sticker,3000000.0,,Close to none,N/a,N/a,N/a
+656,Red Eyes,Rim,1500000.0,,Very Low,N/a,N/a,N/a
+657,Red S3,Tire Sticker,1000000.0,,Close to none,N/a,N/a,N/a
+658,Rest In Peace,Furniture,6000.0,,Close to none,N/a,N/a,N/a
+659,Retro Racer,Rim,250000.0,,Close to none,N/a,N/a,N/a
+660,RetroComputer,Furniture,2000.0,,Close to none,N/a,N/a,N/a
+661,Retrowave,Rim,1000000.0,,Close to none,N/a,N/a,N/a
+662,Retrowave,Texture,250000.0,,Close to none,N/a,N/a,N/a
+663,Revolver,Rim,100000.0,,Close to none,N/a,N/a,N/a
+664,Revox,Vehicle,1500000.0,,Medium,N/a,N/a,N/a
+665,Road Hazard,Texture,250000.0,,Close to none,N/a,N/a,N/a
+666,Road Warrior,Rim,250000.0,,Close to none,N/a,N/a,N/a
+667,Road Warrior,Texture,100000.0,,Close to none,N/a,N/a,N/a
+668,Roadster,Vehicle,600000.0,,Close to none,N/a,N/a,N/a
+669,Roblox R,Spoiler,50000.0,,Close to none,N/a,N/a,N/a
+670,RobloxStud,Texture,250000.0,,Close to none,N/a,N/a,N/a
+671,Robo Wing,Spoiler,750000.0,,Close to none,N/a,N/a,N/a
+672,Rocket,Spoiler,10000.0,,Unknown,N/a,N/a,N/a
+673,Rok,Tire Style,250000.0,,Close to none,N/a,N/a,N/a
+674,Roll-X,Rim,500000.0,,Close to none,N/a,N/a,N/a
+675,Rollerblade,Tire Style,250000.0,,Close to none,N/a,N/a,N/a
+676,Roulette,Rim,50000.0,,Close to none,N/a,N/a,N/a
+677,Royal Throne,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+678,Rubber Ducky,Rim,1500000.0,,Very Low,N/a,N/a,N/a
+679,Rumble Siren,Horn,,,Unknown,N/a,N/a,N/a
+680,SFOTH,Tire Sticker,,,Unknown,N/a,N/a,N/a
+681,SRT,Rim,25000.0,,Close to none,N/a,N/a,N/a
+682,SUV,Vehicle,500000.0,,Close to none,N/a,N/a,N/a
+683,Safari,Tire Style,75000.0,,Close to none,N/a,N/a,N/a
+684,Sakura,Rim,2000000.0,,Very Low,N/a,N/a,N/a
+685,Sakura Pink,Body Color,,,Unknown,N/a,N/a,N/a
+686,Sakura Tree,Furniture,1000000.0,,Close to none,N/a,N/a,N/a
+687,Sand,Body Color,,,Unknown,N/a,N/a,N/a
+688,Sarcophagus Bed,Furniture,2500000.0,,Close to none,N/a,N/a,N/a
+689,SawBlade,Rim,500000.0,,Close to none,N/a,N/a,N/a
+690,SawBlade,Spoiler,750000.0,,Close to none,N/a,N/a,N/a
+691,Scary Organ,Furniture,70000.0,,Close to none,N/a,N/a,N/a
+692,Scary Sofa,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+693,Scary Treasures,Furniture,2500.0,,Close to none,N/a,N/a,N/a
+694,Sci-Fi Kitchen,Furniture,5000000.0,,Very Low,N/a,N/a,N/a
+695,Scope,Rim,250000.0,,Close to none,N/a,N/a,N/a
+696,Scorch,Texture,40000.0,,Unknown,N/a,N/a,N/a
+697,Scorch,Weapon Skin,,,Unknown,N/a,N/a,N/a
+698,Scorpion,Vehicle,6000000.0,,Decent,N/a,N/a,N/a
+699,Scythes,Rim,250000.0,,Close to none,N/a,N/a,N/a
+700,Scythes,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+701,Semi Truck,Vehicle,100000.0,,Unknown,N/a,N/a,N/a
+702,Sendoff,Horn,,,Unknown,N/a,N/a,N/a
+703,Sentinel,Vehicle,250000.0,,Unknown,N/a,N/a,N/a
+704,Settima,Rim,20000.0,,Close to none,N/a,N/a,N/a
+705,Shell Classic,Vehicle,2500000.0,,Low,N/a,N/a,N/a
+706,Shell Mark 5,Vehicle,92000.0,,Unknown,N/a,N/a,N/a
+707,Shell Speaker,Spoiler,1250000.0,,Close to none,N/a,N/a,N/a
+708,Ship Wheel,Rim,750000.0,,Close to none,N/a,N/a,N/a
+709,Shoebox,Furniture,100.0,,Close to none,N/a,N/a,N/a
+710,Shogun,Spoiler,25000.0,,Unknown,N/a,N/a,N/a
+711,Shogun,Vehicle,6500000.0,,Decent,N/a,N/a,N/a
+712,Shooting Star,Drift,500000.0,,Close to none,N/a,N/a,N/a
+713,Shutter Shade,Rim,750000.0,,Close to none,N/a,N/a,N/a
+714,Skater Wing,Spoiler,100000.0,,Close to none,N/a,N/a,N/a
+715,Ski Wing,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+716,Skull,Spoiler,750000.0,,Close to none,N/a,N/a,N/a
+717,Skull And Sails,Tire Sticker,50000.0,,Close to none,N/a,N/a,N/a
+718,Skyline,Spoiler,250000.0,,Unknown,N/a,N/a,N/a
+719,Slashers,Rim,35000.0,,Close to none,N/a,N/a,N/a
+720,Sled Void,Rim,750000.0,,Close to none,N/a,N/a,N/a
+721,Sloop,Vehicle,1000000.0,,Close to none,N/a,N/a,N/a
+722,Sloopwreck Bed,Furniture,30000.0,,Close to none,N/a,N/a,N/a
+723,Small Curtain,Furniture,1000.0,,Close to none,N/a,N/a,N/a
+724,Small Wood Dining Table,Furniture,1250.0,,Close to none,N/a,N/a,N/a
+725,SmallOrbitalChandelier,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+726,SmokeDetector,Furniture,500.0,,Close to none,N/a,N/a,N/a
+727,Snake,Vehicle,3500000.0,,Decent,N/a,N/a,N/a
+728,Snake Guard,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+729,Snake Skin,Texture,250000.0,,Close to none,N/a,N/a,N/a
+730,Snow Cannon,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+731,Snow Chain,Tire Style,2500000.0,,Very Low,N/a,N/a,N/a
+732,Snow Face,Rim,7000000.0,,Close to none,N/a,N/a,N/a
+733,Snow Log,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+734,Snow Shovel,Spoiler,6500000.0,,Close to none,N/a,N/a,N/a
+735,Snow Trail,Tire Style,2500000.0,,Very Low,N/a,N/a,N/a
+736,Snowflake,Rim,4000000.0,,Very Low,N/a,N/a,N/a
+737,Snowstorm,Texture,7500000.0,,Medium,N/a,N/a,N/a
+738,Snowstorm,Weapon Skin,3000000.0,,Close to none,N/a,N/a,N/a
+739,Soccer,Rim,1250000.0,,Close to none,N/a,N/a,N/a
+740,Solo Sofa,Furniture,1750.0,,Close to none,N/a,N/a,N/a
+741,Space-R,Rim,25000.0,,Unknown,N/a,N/a,N/a
+742,Spare,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+743,Spares,Spoiler,150000.0,,Unknown,N/a,N/a,N/a
+744,Spark,Drift,3000000.0,,Very Low,N/a,N/a,N/a
+745,Sparkler,Rim,1500000.0,,Very Low,N/a,N/a,N/a
+746,Spawn,Rim,,,Close to none,N/a,N/a,N/a
+747,Spawn Rug,Furniture,250000.0,,Close to none,N/a,N/a,N/a
+748,Speed,Texture,50000.0,,Close to none,N/a,N/a,N/a
+749,Speed,Tire Sticker,50000.0,,Close to none,N/a,N/a,N/a
+750,Speed Coil,Rim,500000.0,,Close to none,N/a,N/a,N/a
+751,Speed Yacht,Vehicle,250000.0,,Unknown,N/a,N/a,N/a
+752,Spider Leg,Rim,1500000.0,,Very Low,N/a,N/a,N/a
+753,Spike,Rim,10000.0,,Close to none,N/a,N/a,N/a
+754,Spiked,Tire Style,7500000.0,,Medium,N/a,N/a,N/a
+755,Spinner,Rim,14500000.0,12500000.0,Very Low,N/a,N/a,N/a
+756,Spixel,Rim,500000.0,,Close to none,N/a,N/a,N/a
+757,Spyglass,Rim,250000.0,,Close to none,N/a,N/a,N/a
+758,Stacked Cyberwing,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+759,Stallion,Vehicle,200000.0,,Unknown,N/a,N/a,N/a
+760,Stance,Rim,2000000.0,,Very Low,N/a,N/a,N/a
+761,Star,Rim,,,Unknown,N/a,N/a,N/a
+762,Star Badge,Rim,1250000.0,,Close to none,N/a,N/a,N/a
+763,Star Rug,Furniture,1000.0,,Close to none,N/a,N/a,N/a
+764,Star Spangled,Texture,250000.0,,Close to none,N/a,N/a,N/a
+765,Star Wing,Spoiler,750000.0,,Close to none,N/a,N/a,N/a
+766,Steamer,Horn,,,Unknown,N/a,N/a,N/a
+767,Steed,Vehicle,500000.0,,Close to none,N/a,N/a,N/a
+768,Step Stool,Furniture,250.0,,Close to none,N/a,N/a,N/a
+769,Stinger Scythe,Spoiler,1000000.0,,Unknown,N/a,N/a,N/a
+770,Storm,Rim,750000.0,,Close to none,N/a,N/a,N/a
+771,Stormrider,Vehicle,2000000.0,,Decent,N/a,N/a,N/a
+772,Striker,Vehicle,1250000.0,,Close to none,N/a,N/a,N/a
+773,Studded,Tire Style,,,Unknown,N/a,N/a,N/a
+774,Stunt,Vehicle,300000.0,,Unknown,N/a,N/a,N/a
+775,SubSpace,Drift,150000.0,,Close to none,N/a,N/a,N/a
+776,Subcarbon,Rim,75000.0,,Unknown,N/a,N/a,N/a
+777,Successor,Vehicle,649000.0,,Close to none,N/a,N/a,N/a
+778,Super Lime,Body Color,10000.0,,Unknown,N/a,N/a,N/a
+779,Super Star Rug,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+780,Superattack,Spoiler,,,Unknown,N/a,N/a,N/a
+781,Superstar,Texture,500000.0,,Close to none,N/a,N/a,N/a
+782,SupersuitDisplay,Furniture,25000.0,,Close to none,N/a,N/a,N/a
+783,Surfboard Rack,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+784,Surus,Vehicle,109000.0,,Unknown,N/a,N/a,N/a
+785,Swat Graffiti,Texture,,,Unknown,N/a,N/a,N/a
+786,Swat Van,Vehicle,,,Unknown,N/a,N/a,N/a
+787,Swirl,Texture,20000.0,,Unknown,N/a,N/a,N/a
+788,Switch1,Furniture,500.0,,Close to none,N/a,N/a,N/a
+789,Switch2,Furniture,500.0,,Close to none,N/a,N/a,N/a
+790,Synth,Drift,250000.0,,Close to none,N/a,N/a,N/a
+791,T Rex Bone,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+792,TNT Barrel,Furniture,25000.0,,Close to none,N/a,N/a,N/a
+793,TailFin,Spoiler,25000.0,,Unknown,N/a,N/a,N/a
+794,Tall Arch,Spoiler,20000.0,,Unknown,N/a,N/a,N/a
+795,Tall Houseplant,Furniture,2500.0,,Close to none,N/a,N/a,N/a
+796,Tank,Vehicle,1000000.0,,Close to none,N/a,N/a,N/a
+797,Tank Wing,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+798,Tanker,Vehicle,80000.0,,Unknown,N/a,N/a,N/a
+799,Taxi,Texture,15000.0,,Unknown,N/a,N/a,N/a
+800,Teddy Bear,Rim,250000.0,,Close to none,N/a,N/a,N/a
+801,Teleporters,Furniture,1250000.0,,Close to none,N/a,N/a,N/a
+802,Terminator,Spoiler,50000.0,,Close to none,N/a,N/a,N/a
+803,Tesla,Spoiler,100000.0,,Close to none,N/a,N/a,N/a
+804,Tesseract,Rim,250000.0,,Close to none,N/a,N/a,N/a
+805,Theory,Rim,50000.0,,Unknown,N/a,N/a,N/a
+806,Thin,Tire Sticker,20000.0,,Unknown,N/a,N/a,N/a
+807,Thing,Tire Sticker,250000.0,,Close to none,N/a,N/a,N/a
+808,Thrusters,Spoiler,40000000.0,35000000.0,Medium,N/a,N/a,N/a
+809,Tiger,Texture,1500000.0,,Medium,N/a,N/a,N/a
+810,Tiger,Weapon Skin,15000.0,,Unknown,N/a,N/a,N/a
+811,Tiger Rug,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+812,Tiki Stack Of Badimo,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+813,Tiki Tea Bar,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+814,Tiki Torch,Spoiler,3000000.0,,Very Low,N/a,N/a,N/a
+815,Tiny Toy,Vehicle,3000000.0,,Decent,N/a,N/a,N/a
+816,Tiny Wing,Spoiler,15000.0,,Unknown,N/a,N/a,N/a
+817,Tokyo,Tire Sticker,250000.0,,Close to none,N/a,N/a,N/a
+818,Torero,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+819,Torero,Vehicle,4000000.0,,Decent,N/a,N/a,N/a
+820,Torii Gate,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+821,Torpedo,Vehicle,46500000.0,40000000.0,Medium,N/a,N/a,N/a
+822,Touchdown,Texture,250000.0,,Close to none,N/a,N/a,N/a
+823,Tow Truck,Vehicle,80000.0,,Unknown,N/a,N/a,N/a
+824,Toy Plane,Furniture,50000.0,,Close to none,N/a,N/a,N/a
+825,Tracer,Tire Sticker,35000.0,,Unknown,N/a,N/a,N/a
+826,Track Car Bed,Furniture,750000.0,,Close to none,N/a,N/a,N/a
+827,Track Toy,Rim,2000000.0,,Very Low,N/a,N/a,N/a
+828,Trade Sail,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+829,Trail Trek,Tire Style,50000.0,,Close to none,N/a,N/a,N/a
+830,Trailblazer,Vehicle,1000000.0,,Close to none,N/a,N/a,N/a
+831,Train,Horn,,,Unknown,N/a,N/a,N/a
+832,Trapped Bookshelf,Furniture,4000000.0,,Very Low,N/a,N/a,N/a
+833,Trapped Spikes,Furniture,33333.0,,Close to none,N/a,N/a,N/a
+834,Travel Case,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+835,Treaded,Tire Style,,,Unknown,N/a,N/a,N/a
+836,Treaded Sport,Tire Style,,,Unknown,N/a,N/a,N/a
+837,Treaded Thick,Tire Style,,,Unknown,N/a,N/a,N/a
+838,Treasure Island,Rim,15000.0,,Close to none,N/a,N/a,N/a
+839,Trion,Rim,250000.0,,Close to none,N/a,N/a,N/a
+840,Triple Fin,Spoiler,750000.0,,Close to none,N/a,N/a,N/a
+841,Trophy Wings,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+842,Trouble Wing,Spoiler,100000.0,,Unknown,N/a,N/a,N/a
+843,Truss,Rim,250000.0,,Close to none,N/a,N/a,N/a
+844,Tsutek,Spoiler,20000.0,,Unknown,N/a,N/a,N/a
+845,Tulip Chair,Furniture,1250.0,,Close to none,N/a,N/a,N/a
+846,Tumble Weed,Rim,1000000.0,,Close to none,N/a,N/a,N/a
+847,Tuner,Spoiler,750000.0,,Close to none,N/a,N/a,N/a
+848,Turbine,Rim,1000.0,,Unknown,N/a,N/a,N/a
+849,Turning Key,Spoiler,500000.0,,Close to none,N/a,N/a,N/a
+850,Turret,Furniture,3000.0,,Close to none,N/a,N/a,N/a
+851,Twin Bed,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+852,TwinSofa,Furniture,10000.0,,Close to none,N/a,N/a,N/a
+853,Two Sided,Texture,20000.0,,Unknown,N/a,N/a,N/a
+854,UFO,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+855,UFO,Vehicle,500000.0,,Unknown,N/a,N/a,N/a
+856,UK Heritage,Rim,750000.0,,Close to none,N/a,N/a,N/a
+857,USA,Tire Sticker,50000.0,,Close to none,N/a,N/a,N/a
+858,Unified,Rim,40000.0,,Unknown,N/a,N/a,N/a
+859,Unknown Signal,Rim,500000.0,,Close to none,N/a,N/a,N/a
+860,VFX,Rim,35000.0,,Unknown,N/a,N/a,N/a
+861,VIP Chrome,Body Color,,,Unknown,N/a,N/a,N/a
+862,VIP Radio,Furniture,,,Unknown,N/a,N/a,N/a
+863,Vantablack,Body Color,24000000.0,,Low,N/a,N/a,N/a
+864,Vault Door,Rim,100000.0,,Close to none,N/a,N/a,N/a
+865,Vecchio,Rim,20000.0,,Unknown,N/a,N/a,N/a
+866,Velocity,Spoiler,3000000.0,,Very Low,N/a,N/a,N/a
+867,Venom,Vehicle,600000.0,,Close to none,N/a,N/a,N/a
+868,Vent,Furniture,500.0,,Close to none,N/a,N/a,N/a
+869,Vibrant Hologram,Texture,250000.0,,Close to none,N/a,N/a,N/a
+870,Vintage Wings,Spoiler,250000.0,,Close to none,N/a,N/a,N/a
+871,Void,Rim,47000000.0,42000000.0,Decent,N/a,N/a,N/a
+872,Volcano,Texture,39000.0,,Unknown,N/a,N/a,N/a
+873,VolleyBall,Rim,250000.0,,Close to none,N/a,N/a,N/a
+874,Volt,Texture,35000.0,,Close to none,N/a,N/a,N/a
+875,Volt,Vehicle,1000000.0,,Very Low,N/a,N/a,N/a
+876,Volt 4x4,Vehicle,10000000.0,,Decent,N/a,N/a,N/a
+877,Volt Media Table,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+878,Volt Shelf,Furniture,1500.0,,Close to none,N/a,N/a,N/a
+879,Volt Wing,Spoiler,4000000.0,,Very Low,N/a,N/a,N/a
+880,Voltline,Spoiler,25000.0,,Unknown,N/a,N/a,N/a
+881,Voltline,Tire Style,250000.0,,Unknown,N/a,N/a,N/a
+882,Voxel,Spoiler,50000.0,,Close to none,N/a,N/a,N/a
+883,Voxel Sofa,Furniture,25000.0,,Unknown,N/a,N/a,N/a
+884,Wagon Wheel,Rim,2000000.0,,Very Low,N/a,N/a,N/a
+885,Walk Of Fame,Furniture,1000000.0,,Close to none,N/a,N/a,N/a
+886,Wanted Background,Furniture,250000.0,,Close to none,N/a,N/a,N/a
+887,Wanted Hologram Signage,Furniture,,,Unknown,N/a,N/a,N/a
+888,Water Gun,Spoiler,1500000.0,,Very Low,N/a,N/a,N/a
+889,Watermelon,Texture,50000.0,,Unknown,N/a,N/a,N/a
+890,Waving Flag,Spoiler,750000.0,,Close to none,N/a,N/a,N/a
+891,Wavy,Texture,750000.0,,Close to none,N/a,N/a,N/a
+892,Wedge,Vehicle,2500000.0,,Decent,N/a,N/a,N/a
+893,White,Body Color,1000.0,,Unknown,N/a,N/a,N/a
+894,White Ceiling Fan,Furniture,5000.0,,Close to none,N/a,N/a,N/a
+895,White Marble,Texture,1000000.0,,Very Low,N/a,N/a,N/a
+896,White Marble,Weapon Skin,1250000.0,,Close to none,N/a,N/a,N/a
+897,Wild West Wagon,Furniture,250000.0,,Close to none,N/a,N/a,N/a
+898,Windmill,Spoiler,1000000.0,,Close to none,N/a,N/a,N/a
+899,Wingo,Spoiler,37000.0,,Close to none,N/a,N/a,N/a
+900,Winner,Horn,750000.0,,Close to none,N/a,N/a,N/a
+901,Winter Camo,Texture,2500000.0,,Medium,N/a,N/a,N/a
+902,Winter Rally Lamp,Furniture,100000.0,,Close to none,N/a,N/a,N/a
+903,WireFrame,Texture,45000.0,,Unknown,N/a,N/a,N/a
+904,Wood Coffee Table,Furniture,2000.0,,Close to none,N/a,N/a,N/a
+905,Wood Dining Table,Furniture,2500.0,,Close to none,N/a,N/a,N/a
+906,Wood Media Table,Furniture,750.0,,Close to none,N/a,N/a,N/a
+907,Wooden Toy,Texture,500000.0,,Close to none,N/a,N/a,N/a
+908,Wooden Toy,Weapon Skin,15000.0,,Unknown,N/a,N/a,N/a
+909,Wyndr,Vehicle,600000.0,,Close to none,N/a,N/a,N/a
+910,XRK,Vehicle,299000.0,,Unknown,N/a,N/a,N/a
+911,XRK Aero,Spoiler,,,Unknown,N/a,N/a,N/a
+912,Yarg Cap,Spoiler,100000.0,,Close to none,N/a,N/a,N/a
+913,Ye Old Chair,Furniture,250.0,,Close to none,N/a,N/a,N/a
+914,Yellow,Body Color,,,Unknown,N/a,N/a,N/a
+915,Yellow Lamp,Furniture,250.0,,Close to none,N/a,N/a,N/a
+916,Zebra,Texture,40000.0,,Unknown,N/a,N/a,N/a
+917,Zebra,Weapon Skin,,,Unknown,N/a,N/a,N/a
+918,laughability,Tire Sticker,,,Unknown,N/a,N/a,N/a
